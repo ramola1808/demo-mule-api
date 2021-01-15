@@ -1,0 +1,27 @@
+#%RAML 1.0 DataType.
+type: object
+properties:
+  value:
+    type: array
+    required: true
+    items:
+      properties:
+        '@odata.etag': 
+          type: string
+          description: Etag value for reference of the fields.
+          required: true
+        Dimension_Code:
+          type: string
+          description: Type of the interaction
+          required: true
+          maxLength: 20
+        dimensionvaluecode:
+          type: string
+          description: Code for the vendor
+          required: true
+          maxLength: 20
+        name: 
+          type: string
+          description: Name of the vendor
+          required: true
+          maxLength: 50

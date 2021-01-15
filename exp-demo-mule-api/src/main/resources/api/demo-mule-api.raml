@@ -1,0 +1,17 @@
+#%RAML 1.0
+title: Demo Mule API
+version: v1
+baseUri: https://localhost:8082
+protocols: HTTPS
+mediaType: application/json
+
+/companyData:
+    get:
+      description: Retrieves all the Company Data based on Council Code
+      responses:
+        200:
+          body:
+            application/json:
+              type: !include data-type/get-company-data.raml
+              example: !include example/get-company-data.json
+                 

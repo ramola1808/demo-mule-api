@@ -1,0 +1,3058 @@
+
+ { "value": [
+        {
+            "@odata.etag": "W/\"JzQ0O3BUa2haSWYwZzR3cE0zN3plTE9PNDNBaEV1ZGt2aTV3QUd2UkIxSVpsS009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2013-31",
+            "name": "Cooper 2 Landfill Re-surfacing works              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdodksvWkZoSGQzb0kvK013bC9VUks5SnoxTWpyZ2FnWFNGRTVaVWtBemM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2013-33",
+            "name": "Playground Auditing Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0dHREhtVldLeGR5NU5VNXl4WE5YbTAya3BnSHIwMUtCZ2pGOFN4T0hDcEk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2013-72",
+            "name": "MCH Information Management System                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2VnTktqbEZmLytXZWRtVks4OXYwZnZGNHJ2czBGWFVqNmxYZ2JHdExhS2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2013-76A",
+            "name": "Detailed Design of Various Community Facilities   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9MQTJBSVFBTHB1cTRYSXMyRWU0U1hpQk5wbTFkWFY1QmVFRmZoSzdMY1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-10",
+            "name": "Online Learning System Provider                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2M3cVg1UFoxR2ZqMmFZZ0ZiYit6dko0YWc4WGJwWXVLSS91UGdoeFQ4Ulk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-108",
+            "name": "Feasibility of Council Acquisition Mornmoot       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dwOTJLMHZOYUFiMkRkbzlwRTEwb0F3bm5JL1R0T1J0VThOK1JYeVlvYlk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-113",
+            "name": "Design & Construction of the Thomastown           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0RwQ1Y3ZEs2MnlpWExxMEpCWm9KSGxxWnVnSVlEb0JuM3ZhNnREM0Nkdzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-118",
+            "name": "Supply of Traffic Calming Services & Associated   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1IySkVMR0VHMkFhNG1hZnB1ZnM4bW5VdHh1M1gwS3RrMmxoOTlGbGJqVUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-125",
+            "name": "Facility Trade Services - Management              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzBvR29GY2JSYTJSVG5sdVc1S3VNcUFGWkYxVFcrdXExeGhrU3p6cTNieEk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-125A",
+            "name": "Facility Trade Services - Maintenance             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2liSk9tM1hVc2t5RjlYbmk3blR2aWFvUlNZZ25DeVdEQTFWY1c2VFp3UjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-150",
+            "name": "Supply of Rubber Kerbing - DID NOT PROCEED        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3p6aFJRZVBPaTBzdWlkay93N3pZMS84SGdTMVFxd09Kb0xRZkpCdDlIQkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-151",
+            "name": "Functional Design for Road Infrastructure Works at"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3A5M1ROd2pldDdSNHF1OU92QXRZTzdZZGV3VnVjQVd0TmdQWDNaTG1OemM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-156",
+            "name": "City of Whittlesea Signage Action Plan            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0Y1VmRSUnc2MzdwNG9IeUEzc1VHQ3ArYngzd1NENzhvV2pVbmU3SjlKS1U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-160",
+            "name": "Management and Operation of Thomastown Recreation "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3lLMzhxSlNwaGVvRVg3S0lvVjlRY0QxMmNuQ2xUNDRIUVBhT3lqUG1kY0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-164",
+            "name": "Aquatic Centres Business Continuity Plan          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2NxUi9ocXRQRHZQRFVYNE83dGF6SG55N21ZUzRETDZYN3JSaDVpVkt1YTQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-166",
+            "name": "Graphic Design layout - Gambling Strategy and     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1M3SERWVENqc1ZsWmFEclFmUDFudTMvMmR5VVVYVzJRcE5VTnRjeDhSVUU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-168A",
+            "name": "Supply, Installation and Maintenance of gym       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01SU2ZJTnlhOUhsVnBJMEZjZDZiL05BejYyQUtaQ0NBellJSFVPc1kzOXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-168B",
+            "name": "Supply, Installation and Maintenance of gym       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzB1aTZYb2w4ZE11UUR6a3oxbVBiM1crc2RTSTIvdVc4aWtISE9lQnBmTlE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-178",
+            "name": "Mernda ASR Filtration Pilot Trial                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZQTGRRV1ZSNVlHNHVTcXgrMFpXVFlMcHd6MlZwWUdnNDV2Nk9kZVQxWEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-180",
+            "name": "Parks and Open Space Service/Contract Review      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VpcmQ3U0J1d0dITC9CNms4cjRuaGVQczAwRkxndittUHQ5bjlXUEhwL2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-184",
+            "name": "Human Resources Information System                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZCSUtrcjhmSDBaVnNqeFBCckwvODRvcU1iVlFYdnBMMWg4b2xKbWJlZms9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-191",
+            "name": "Supply of Goods for the Epping & Blossom          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3BDc3FMek14M3JZdEJRMHNNVHJmTGxJK0UxTExWNTdpVGloTzhFejI3RGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-192",
+            "name": "Provision of HACC Delivered Meals Service         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3pMR1NCZDVmSnJraTVhOUx0eCtmNEFwNVpnTWIwcnQyNHBvbXh0TTd1SzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-2Z12A",
+            "name": "Supply and Delivery of One 15.5 Tonne             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Qra1FjL2tnU01KeG1oWW5ZekJkZSt2UExQanhTck96TTRna0FSZDZPNkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-2Z12B",
+            "name": "Supply and Delivery of One 15.5 Tonne             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VTQ3dzVHFkN2Y4bEhEMlllNEQ0ek1ibzNSTVdjemVqcE1CSFVSWnJFYjA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-2Z15",
+            "name": "Supply and Delivery of Two 6.5 Tonne GVM Graffit  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZxNDVnQmUrYU84eVdZS2ViWktKZlFDRytBMUV2aHYweVBQSkdGZm0rams9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-2Z23",
+            "name": "Supply and Delivery of Two 5.5 Tonne GVM Tipper   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Fud2ZGeFI5ODF2Y3pqRzNSSzk3MVcxRzZGMTBMTEl2N2ExcjZ2ZnZTZEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-2Z24",
+            "name": "Supply and Delivery of One 5.5 Tonne GVM Tipper   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZvVGFicDlIbTdCVlZiV0dTUEVGc01Kb3l3V0EySmk1Sy8wSk92U1NCcFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-55",
+            "name": "Provision Of Pool Plant Maintenance Services      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2dwZVdSK1pxbllmLzJFYnhyTG1xMmI4cVNEVGc2MFRucmg5S3hEKy9Jbms9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-55A",
+            "name": "Provision Of Pool Plant Maintenance Services      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hMKzUvWDBZR1pMVWgvWlVkcWRqQjdEQWtsNm5oVm5JdHRSVmZBUERhckE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-64",
+            "name": "Provision of Fire services maintenance to Council "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hRdTFhNWF2K0k0VnFJbVBUNXplbitDUkpQdG9NRFhucWx3MWN2d0ZXNFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-64A",
+            "name": "Provision of Fire services maintenance to Council "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRmcWJBQmduS1lmYU5mYWpUUGQ1Vk1nN08zakVqdFFpakhyKzJYZ0E3Mjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2014-72",
+            "name": "Provision of Tree Pruning & Associated Services   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzVpNXBDS3lCQllyKzJHZzQ0Z3hpNHphZk9qcDNkVG1lOTR4cXhsTkE3bWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-10",
+            "name": "Hospitality Service Staff Providers               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hQUmp6djlBVUErT0FlWTJCczBqN0tEL2JLK3pidW4xR2lkc3F0YzNyREU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-103",
+            "name": "HACC After Hours Service                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2RwQnFQOGxBL1FHeVRoM0dzSkdXT0FJMnR1ZWJFTm1RcUtFU0YwT2JhaU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-107",
+            "name": "Design of Pedestrian Operated Signals \u00e2\u0080\u0093         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JpUzY4bE1aVkJ3VnRDTDFnczVqc3djOXl4clJYQmRmNTFiNnJPb2NubHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015--110",
+            "name": "Supply and Delivery of One Mini Skid Steer with   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O09DQy96VjJHRjhWTkF2V2wxNDVpdmdIR3h6YVRTNXRUVDN2bmNEVk4yUEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-115",
+            "name": "Supply of linen & associated products to PRACC    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ViSjMzZmZaQmRmeWxNMEdseFp6L01ieFlid3hFK1d1dlRaRS9yWDcxYk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-116",
+            "name": "Consultancy Services \u00e2\u0080\u0093 Advocacy Strategy        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZzK1ptNWpGS09tOE1ZK01aazgxa0tLSWR0Z1ExZjFSV0JLaWhjTVQvWG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-12",
+            "name": "Ticketing Software Support Maintenance            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2NPUkR4WmZLWFI3TkgrR0Q1S0gyK2NHQWI3T2p3WDZjVTgvTm10SC9ZeEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-120",
+            "name": "Internal Re-Paint \u00e2\u0080\u0093 Timber Floor Sealing \u00e2\u0080\u0093    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzVFSFBoME56UnZvdXJUdkN1UXNnRFNDcWxNOXJKRy9tajQ1cUhkNzBYb1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-131",
+            "name": "Automated Tree Inventory Research Project (RMIT)  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZkbCsrUnFrM0RzT1JjN1NNdWtKc29sMHl5MTlTUXdLS1I3blhaeUNPK3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-153A",
+            "name": "Maintenance Services  to Lifts in Council building"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3pVQnJWU0QvRWtXU3hTMUVjdERxSGI1TGs4VVA0RW9xNUF6K2lwRnJzQTQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-156",
+            "name": "Design for the TH Hurrey Recreation               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29QWFQxdzdIUDFzRFdNYm1WeUxSNGd5QTliRlJpeUhQMnBtUm04Q2hCdVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-184",
+            "name": "Urban Design Services for Lalor Streetscape       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pBOFZuNXl3REJnZC84ZXR4VWx1RkxOWURLVEduOEJXQ1lxS1FTU1I3Wnc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-188",
+            "name": "Marketing Services (MAVMB8210-2015)               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFxZGYvajBsb2tUTHFGVVFsVDhtWTBKdjhwZHE4TjhUMitzeEJnMkJDSDQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-190",
+            "name": "Provision of Debt Recovery Services (MAV DR8410-20"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZaTVphalVSUGJnNmV6YVgreWMvbmMrRk5kRnpqQ21MTzMwUEdFa0NWd1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-193",
+            "name": "Growling Frog Golf Course \u00e2\u0080\u0093 Recycled Water Dam  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dWenR1VDEyZ3dMM1g2dnozYW96aHc3a0ZJV0JMMmZRN3FGTGh0bjZ6enc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-197",
+            "name": "Land Capability Assessment                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JRbWNNdjk1UlUvZnJ2UkdXNGgzbjYrdnNqR1BFS252anA1MUZwOXhRZXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-199",
+            "name": "Review of Major Class Insurances                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2VkSk04M0pudUhiVmI3VjdjclpDdXdwc28vUm0xR09JalhNc3N2QktSalE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-206",
+            "name": "Supply and Maintenance of Indoor Plants           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01oUnJ4VmkrUzVNbkZjSmxTeVpDcmlPNXZUcWJrRTBaT2dSM2F1OE9CcUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-210",
+            "name": "Sharing Our Stories - Project (Action 1.1)        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0h6TGVUcktvMXdvUU9ibmRrZTBlc213b00vOEN4NFZNVWYzdmk2c0k5dFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-211",
+            "name": "Provision Of Maintenance Services To Capstone     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2o3c0h1OVg4d2xzek5vdk1VeFlyRGdleVMzWTd4bFA3Q3M5eWhrTUgrZUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-213",
+            "name": "Supply and Implement an Enterprise Project        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VqNm9DNXNCbWNQcDNSeGd2MThrZG9YakZPTndBb0NiZGZDS21ydkFvZnc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-219",
+            "name": "Installation of Solar PV at Bubup William         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1NSM29yT3ZUdU0xb2RkUHR5dS9LQ1YxMXZDSFZRK2hKMXZjMCtpZ29FWk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-21C1",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tFOW41bmdEdjVhSVBrL3ZWOFk3cVk0dVhVaGU2UDcxa0NHQ3JYUlhhTG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-21D11",
+            "name": "Betula Avenue and Garden Grove Drive Roundabout   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0JlemRRS2M2c0JCM1JVaTh3dW9Sdm5yMTJSeFM3SDBDME11MGxBaXRWQ2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-228",
+            "name": "Rock Removal, Habitat Installation and Associate  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ltTGUwMVBaZklZMm8rcE9OdEViYTllcUZMNGZlZzlGZEZBOVByMTlIM009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-25",
+            "name": "Provision of food and beverages supplies          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1IrT0pkaDJkMTQwY3RPSkNqREdmRU1GcE1rM28yWXFSUmo4SjNRQS9EdmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-27",
+            "name": "Signalisation of Painted Hills Rd & Bridge Inn Rd "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hiVXNZcHlmQ0dmNE95N2JEYWNpRzR1ZUN5UkhJcGVTSXVDRUNYeVk4Q1U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-33",
+            "name": "Food & Beverage Services at GFGC Restaurant       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25paUNmQ1VvWktqam1sV25JOWU3SlZjT0JCdDlZQ0FRSGh3dkU0YmZuVG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-39",
+            "name": "Sewer Construction Works at 713 High St Epping    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Ozdhbm4rYjY3WU9WOXRwMXlPNVBjTXVmVmp2bWExTkJEcVltRnhmTFBQUVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-4",
+            "name": "Investigation and Mediation Services              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0RaNkxtWkYvbXcrbHVqWHBEMjZtM1B2RjFRVkgxUnY3UTFtc0tTSUNBd0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-41",
+            "name": "Design Services for the Upgrade of Sycamore BMX   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzNIT0l3aHRpUFM4bXZDM3Z6dkdZMnFsTWpwQ3JUS2Y2OE9aOU5MaE5oODA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-50",
+            "name": "Development of the Signage Management Plan        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0dKWDdNdWdxM3lnR2x5cHRra2ZSTXh2UlNHd3hlczJ6aTV0eE5ibzRJK2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-62",
+            "name": "Servicing to Sewer Pumps, Pits, Septic            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzBQMml1aEs0VWE4allONmw5OW1nOFBNdnNwV2NkdzFYTjREdFo2S0RVZWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-62A",
+            "name": "Servicing to Sewer Pumps, Pits, Septic            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3lQSDVGWXE0M2pMYUR1R1ZpTXlPUDkxQUptY04yMmRIVHFhMndFOFMvazQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-69",
+            "name": "Design Consultancy for Office Reconfiguration at  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pMN3FYYzhuZTQwT2pkUWUvZ2ltZFNQMFZZb1lhZGFEU2ZDQW9BMGFTUWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-7",
+            "name": "After Hours Call Handling                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2d4NUhGUy8rc0crdmZsVHVEdzVPaGZVN1kxQUFVWVV5Qlo4bys0dTBlcFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-79",
+            "name": "Mill Park Leisure Centre Redevelopment Feasibility"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2gyNVA1aFJRaTBsWHI3VE1MYkdySEU3L05kMGpLcDhWdkZnSnR5Vm1wL0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-81",
+            "name": "Health and Safety Assessment of                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O296eSs0MnoyR05CWnFYSEhsckhWQVRZeDZFbjRrNTdMQ1NWYVd6czdPTGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-82",
+            "name": "Provision of Project Management Services          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O09uOGdZVFIxT2U2MytZeE56cDN3ZzJwSlkweFdyU3ZpYlE4V2JBaWgwbW89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-83",
+            "name": "Landscaping Works at the Epping Depot             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1VYV09nYTRzZjhXeENHSE5hNU5aU1NJNHpoVzNQOWVQTXFHRkl6dzQ1T2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2015-93",
+            "name": "Paint, Paint Accessories & Graffiti               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29jK3pkRkpMbk5TQytBMU5oQ04yMm1JZmJIVmpRY1lhOUVJeXFHSTZ6Tzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-100",
+            "name": "Farmers Market Feasibility Study Review           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01tdFdPaTJvbDRZdzFvcnFXQjdyVFNZaldjL2t2ZG5Dby8ydWdXS1NmQkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-104",
+            "name": "Building Surveying Services for the Redevelopmen  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29IQklRQS9YVm5ReDBlOHJDU1BqUGpLR3A3aFRjOWFlbk5OZk43cmd3WUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-110",
+            "name": "Design Services Painted Hills Recreation          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2cwc2Y5d0xrUUZ3WmFOQWZlcG9nMk8yOFhQVU1ucG5KS2hBa2wrcS9rdzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-111",
+            "name": "Cooper 1 Recycle Precinct roadside timber         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFjNkhNN1RxSmk2ZytHUm8rSzMreFRNUHRZaW9hL2g4U2llYjViL2hiUEk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-112",
+            "name": "Design Services for Mosaic Recreation Reserve     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pKOFEyaXhlOE1CVjdBMmtRNjg0SUNCd3hSOTNGeHUwYXRyZHE5NVIwbFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-119",
+            "name": "Cricket Wicket Upgrades 2016-17                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05DRE01VzNDZElXdERPSXJSQ3M3eDd2Mi9ZUjdVWTVtUzd0bEhUSU9qZ289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-13",
+            "name": "Maintenance Services to Exit Lights and Emergenc  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pBL0dkMUJQYnNKbEI3VHNJbFE2OFN0TGg4M0lTVFFsZ3VEZlNIYmk2b2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-13A",
+            "name": "Maintenance Services to Exit Lights and Emergenc  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3doT0VXamJCbHhkTXJWMHZPKzlubjQ0ZUQxRmNUSnVZeSthNFZveDFOcUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-141",
+            "name": "Road Signs and Associated Product                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hoZ2QwVS9mOTlSUGNZRUZDcEtUbUNhczZSWk1tZzVuWnBEQm9PbGZRWjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-153A",
+            "name": "Supply of Trees for 2016/17 Street Tree Renewal   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2lCNm1kUWxXbmFaTy9UaExUN0ZyMHREN2FkdExoamNzeGhmSENpUlpUaUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-153B",
+            "name": "Supply of Trees for 2016/17 Street Tree Renewal   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzEwMDR1NStRWUhWc1B3MGhnRzB5V25QMmFvSEoveUhwZ0ZFU2ovR2tjRkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-153C",
+            "name": "Supply of Trees for 2016/17 Street Tree Renewal   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01xM1VKQ1JjL0VPYXE1SzBQVW16N2h5cWpMZVYrNkc3d3hXSURsdmsxOUU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-153D",
+            "name": "Supply of Trees for 2016/17 Street Tree Renewal   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9venBBeVcxZUlDVU5xMGNTY29nYUMzR1pRL3RJNkJSOENhZTJPaEtrNjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-155",
+            "name": "Fuel Facility Environmental Improvements -        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0wxRGFodUdodS9KTFh3dnF3K3cwYys1S09LOG5YSEVKdkJEa3YzS3BOV1U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-157",
+            "name": "Consultancy Services for Shenstone Park Quarry &  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0FWbUNqZzk5V082TzBTSUxpajMxa2c1U0U5S2c5TTV6ZTVyazBlVlFuREk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-159",
+            "name": "Health Management                                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dPWkVmekZnYlIvZDE1VXJud1RtNVFZLzdsVXZldUEwVEpEeFFvREVKMU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-162",
+            "name": "600 Litre Spray Unit                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ozVWlGTmMwUDhndms1SUpRYW0rQUw0eEtsZ1drQ0dDVXRMUks4WTJ5cmc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-163",
+            "name": "Electrical Design & Construction Review           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2RhR0lyZUdLL3BVbHIzMXpoamRzdmtqSm5aUGo0dThVaWY5RDdWUDF1NzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-164",
+            "name": "Architectural Services for Janefield Community    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O00veWFVcWpTNjU3TWNJdjdnZ2REdjdrVWJ6NmpYU2ZGWjhkSUxucjRMeUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-168",
+            "name": "Specialised Trucks and Bodies (MAV NPN 1.15)      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JYd291Q2FOTi9IV2UxQ3dkK2NrM0hpV0dlSHNUVUR0QTh2SzZrNUZibEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-168Z2",
+            "name": "Supply and Delivery of One Compact Sweeper        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w2NHUrOXdPSDdWcXhFZThyOFBqV2xDeEU5b3h2K1NkM3dVYTFVMG9IQXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-170",
+            "name": "Energy Sustainable Design of the Civic Centre     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3g4NkdXRG8xbDRPV2FpbTZsMGpoUkZyVUpXM1czR1BPWUNVZkNQSXA3RDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-177",
+            "name": "MAISC Feasibility Study and Business Case         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1pvVmVxblJXSzV6NGlFRUI0TytWZGIzcUFnRDNFQVdzQWxIZSs2YStvK0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-178",
+            "name": "Geotechnical Survey and report for Quarry Hills   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xlL1hrZUQyUVp1ajVndzlZdlZWWmtBRUFkaGRnK2VDNThxQ0RLeUl1NFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-179",
+            "name": "Feature and level survey for Quarry Hills         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZscTZFM2luRXZPcWdCWU1rd2U2Q2I5SkNMaExqald5bHE4ZWtnSWllWnM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-180",
+            "name": "Cultural Heritage survey, investigation and       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1FyR0xxZlgzQzlWcUozT0lQbmwzd0xOQWhKdFN2NGZNQXFNb05rN3l4Y289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-181",
+            "name": "Civil and Landscape Detailed Design for Quarry    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dIaUVZTTFtWitwZ3VaNldaNDMrZDVjaUJXVGYxaG5jVENTemlJQit3UUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186A",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pMSmhaR1pQc1kvTGZNY1M5cE96dG5aNVVoL1FldVhHYlhpWkxzYXBZb009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186B",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2xVUWxhTXRqWEtPSXJtajNlSms0ZExEWGp5ZUptNjZZZmdQZ00wb0Q4T2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186C",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzUrODVYaHBhaTV0Z09uUVQyeStuOTdvYU01Z0txcU5paWFmeENCeWd1S1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186D",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3gxVEVObkowcUhYUC9YR1VYTXNTVTZ1ZStrYi92YmFGQkZta2FJU3JXS2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186E",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21tQ1BhYU5UNGZ1YmZUUmVYL1daODQyZWhYSGF6N0F4NVZNS0dCZFBEQU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186F",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytweVlkVjVPR3dheVVnU3VlVFczcERuQnFEQVRTZ0psazdUZjUrdEpxeTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-186G",
+            "name": "Concrete Construction and Reinstatement Works     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1BkUTN5ZkVZS1c2VGhmdVB4QitSYWVHS000MjVta0FIU2lMMG5ucU95MWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-194",
+            "name": "Building Services \u00e2\u0080\u0093 Service Review              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9kY1BMV3orSDNBRkY4NDBnWTVVV3dlN1lHSU1CU3JBcGF4SitKMFY4Rk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-195",
+            "name": "Window Restoration for Janefield Community Build  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JwWS9CT1dwSXdsK1B1QjRibDVWNEJvQkgreEQxd1VOdHRpeEtYdUNoK1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-199",
+            "name": "Supply and Delivery of Milk to Council            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0gwNW4xZm9QVHpZRFNNK1FOT1E0WnFXWjNPN3RZcndFYjJPWVQyMC9pRWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-200",
+            "name": "Detailed design and Documentation of the          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dRdlZTZmk1Y3RBOFlObmhvc1FEeStTSkhockxKZzhta1djZ1pEd0JJSHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-201A",
+            "name": "Parks Maintenance Services                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lyK1F0VlREN3c0L09vc2g1bEpXbGdSTUZpMkRTQjhMeGRJcHdOZXVUTzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-201B",
+            "name": "Trees Maintenance Services                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3JZUFVwR2JDQ3Jlb2FzR1h3QnZ5SUhZQlNxd3ZoY1BoSzN1UC9JQnMvdFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-20A",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzMxRFFQUUU1ekFSZWx4S2VydXV1UU82WFhwRTFsMUpVWDJNKzh2N1dyNWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-20B",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZyYUZyc2RYY3JwcXdUdXh3WnZUdzZaU1dGR2pYY2l6OUtkK3hvcnB0RDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-20C",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21lSzdVOVdPREVoeURySGVDUTNybDN6UWtKRExZbXM5V3B0MXAwWktGTGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-20D",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0NGM2JzajVBc1lwaC9YRm5XdzN6ajBHczVFeUVTeUtpSElONmV6d3Mvams9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-214",
+            "name": "Construction of the Yan Yean Tennis Club          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2poZFZ5My83NldiZHh3UWRtdE1iUmhLNmxmWVdsYSs2ZlZPUHVYNlJMY2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-221",
+            "name": "Occupational Health and Safety System             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1BUNzNWaS9wNTVGUE9XUTZJN2ZGYlphRTRMZWtYWmRQTExKVzlXOGpTckk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-224",
+            "name": "Road Condition Survey                             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VyOXVySks5cVpmbzBQUUVYT2tnWDdNSlFrd2krK3FXOVlsaDBsNzl2RFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-225",
+            "name": "Consultancy Services for Whittlesea Township      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2krSWFjdWFRSzB6ZFVsOUxXMERDcmFFcDloZ3NoVXBOVkF4RU5GcVl5Slk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-228",
+            "name": "Online procurement tool for design, print, mail   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3JENnNzemI4c25JU01RdDF2b251cUsxa0QwL2NITENMOWpsOERFbDJxVjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-24",
+            "name": "Consultancy Services for Streetscape Condition    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hIMmdISUE3SktPZFd4a2V6cngxamtZNW5YamRHdFZhRzQyYXNCdG9wMkU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-26",
+            "name": "SHF Band Data Transfer Masts \u00e2\u0080\u0093 Structural       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzBBUEQ4WjllY3pVdDNqSUVkZnZzRXV5YU8yYW5NSnEyQnowWk5ENk94VHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-37A",
+            "name": "Supply of Electricity to large sites              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytZcUwwQkNINTREbm1hQllaeTNCWVp5YzBXVlE0cHhnVG5JVERBTTVQK3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-37B",
+            "name": "Supply of Electricity to small sites              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pLZTVvUjgraWVwT2lYL05IVkcvYWFaSWhZb1h6VmlPVG96ZU1ISDNSRGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-37C",
+            "name": "Supply of Natural Gas                             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w3Zjh0S1JtWmgzbTYzaGh5TEtiZEtQSkQzalAzS1BwZGJDQTQ3MXpvckU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-39",
+            "name": "Photocopiers, Printers & Associated               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzBjTGI5YW16L2pyTE5jWVhQRGJvd3lrUTN1aWFSYWRiYkNuTXk5enN2NTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-53",
+            "name": "S & I new carpet and vinyl flooring at the        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlPaFJ4YWpGTVhvUlQwa2FiTTdGTU1PVXZ1bFZxNDNaemlLMmVlNm1oNjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-54",
+            "name": "Venue Set up / Pack Down Services                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3F2NHh1emFLYjRNaUwyMWJSQWNtMDRWcnhoZFdEcE9rVmowQVA0eERYOWc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-6",
+            "name": "Design Services for Redevelopment of Mill Park    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O20rYU5lNUt3dHlOc2hKWWk0MmhHYTRXRDlNMTRuSEQ4WStJeDNkNUtpWFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-62",
+            "name": "Provision Of Mechanical Services Maintenance      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lXQU5qdGFhVng2WkloNXFvM3BSaHg4NlhaOGRxaWhJU2RkTlBXeSt0TDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-62-2",
+            "name": "Supply & Install stage 2 of A/C System to         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21iRjdJcGNkWWVlY0twVFFRQlhJUVNDRVFkeEdGNVQ1NmZUcHpjbjNEN0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-62A",
+            "name": "Provision Of Mechanical Services Maintenance      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0grRi9zcUJmbUpTV1dTcVRhYlpHN1YrcU5JQ29KK0U4L1Q4T29hWDd1Uk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-62B",
+            "name": "Provision Of Mechanical Services Maintenance      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1R1NStBdWx0MHNYOEQ5VHF0aGRyZWVXV0pJM0Z0UHVyWEZaa1lManNvM3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-62C",
+            "name": "Provision Of Mechanical Services Maintenance      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29zRTRpMFMvQzdtNW1iNHNyYUc1WkJvNHkyK3ZLTVVHWFFwdHhxcFVKQzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-67",
+            "name": "McLeans Rd Kindergarten shade sail replacement    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytKR2FIWU1FT3FnMThYZDU0d2RJZVk1U3RiYUh4N0ZvRnFET2g3aW0yRUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-70",
+            "name": "Provision of Animal Welfare Services              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1J0UG1WbWtCMG4xd0NIZnRkSk1CV2wzWHNSL2dIazMzTTdjNWpEZVBlSkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-71",
+            "name": "SAI Global LG Australian Standards Package        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzA2bWJscS84ajQzS1E3SGhYQ3Z2bGRyQWR5OUU3SzErTElYcTdaenN0VzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2016-90B",
+            "name": "S&I park and playground works at Victoria Drive   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O201QWVVQ21hSDhRSjl6clJNMzdMeVhPUW1TeTFPY1ZERDlhV08waW5XcWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-100",
+            "name": "Graffiti Vandalism Management Services            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JxSjA5cGV5d0N1dzZtc3RPQ3lOVkhwZWx2V3hVcjVPYk9MSmE1T2hkT3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-102",
+            "name": "Grading services                                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2lvYWVNZ0xMTnNlRDBnQ0RjTU9sa2QyZlBoWHd2UjZ5VEcvTjhsVGxKWWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-107",
+            "name": "Design of Station Street road safety upgrade -    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1F3dGg2aE51ZEpRdFp1L0pBVklaMU5GVTFiUnRWNjdSdDRvQlgzUGxibFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-113",
+            "name": "Hydrological Site Investigation at the            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRXbEpuYWZoQlBnN3lESVJkL0VXT3pPK0xZNEtrbCtqSjFSdVVHT2N5VTQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-116",
+            "name": "Shenstone Park Precinct Structure Plan Strategic  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2FKRTFrVUE2Q0FmUk5wR3pJb1RiTDlpWnVGcVMvYjlwM0l5OXhqRkc4Qzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-120",
+            "name": "Epping Soccer Stadium Feasibility Study 2017      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1lEY2RLQVRSYjd1dnh4LzFYLzUzc3IrMUJPNmh0V21aaWVoSFVNSjVObVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-129",
+            "name": "Consultancy Services for Shenstone Park Precinct  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0NLczRVcjhpakJLMDlsMU1zRDdKOUlpN1dkeS9NVXYxUUhFMXRCckE4OVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-13",
+            "name": "Bill Payment Services (MAV BP8411-2017)           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05Sa2pKOGFoL1l3NnF2VGlhZWhjY3VUU0xBRFVVQU9HZVRvZWJURjgrcVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-137",
+            "name": "Supply of Bulk Fuel, Fuel Cards and               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1M2clo5SnNaS2tUTjFHY0tSbGdCaDlnNkgxSitkY3FyTDdoUW50b0tXOEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-137A",
+            "name": "Supply of Bulk Fuels                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1l4Slc4WWNOZ204ZFVJaCttNHM0ZTRCRzd6QWZ1bnFMdkVRV0w0Rko3ZzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-137B",
+            "name": "Supply of  Fuel Cards                             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O291SEd4MDRDTTNGdFpVQkljcmU1TDdoVzdDdFp3MzFsN3RtZUp3SHFmalE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-137C",
+            "name": "Supply of Lubricants (Primary)                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O010Sk9VUTd5RVBhS0JCaE1HWFB6NERJdVNpRTY2d3Vwc1ExSkprZ3Vma289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-137D",
+            "name": "Supply of Lubricants (Secondary)                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05wVnRXS0lSVElYR2RRYk9aZUZSRDVOK080L29pRkNZUEozdFIxYmszSGs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-138",
+            "name": "Infringement Management System                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZNSElpc0FSWDkzRy9TbSs5ekVaK0c4LzV4bGgxNFdRU0ljRktqZWJGK2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-14",
+            "name": "Landscape Architectural and Consultancy Services  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tIOUt0ZWtCVzF3clk1QVdOODZKTS93SlQvKzYrS1pCVHVGSU42MmQ5elE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-142",
+            "name": "Provision of Fire Alarm Monitoring Services       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VVa3Y5cHFrZEdnSVcrNjdnb29oMzRKYjB0cjdOMjBzZVdpYnRBSDBrR3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-146",
+            "name": "Detail Designs - Traffic Improvement Works at     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZKNTBDR2kyMHB2RldzQ2docUVTS2NUWSt3RkkzaGhVZ3NKUDViN0J1bWc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-156",
+            "name": "Landscaping works at Koukoura Reserve, Epping     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29JM0RSSlBiVGRGb0hoaTUxR3FsaG1EQmwyeFFMTlYrVmJJY1lWcW9jbEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-158",
+            "name": "Consultancy Services for Shenstone Park           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1g3ZUF4QlpRZHZEdjhNMkd4UXBTTzlPczRTNDRKS01reG5QekQ3dnhyL0k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-16",
+            "name": "Glenburnie Road, Eden Park - Audio Tactile Line   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZ0M09TTTFTbTFIeXhtYnNxZUdMWXVTeGdvTWF5Wm1MM3dYemo4ZG1WdDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-160",
+            "name": "Construction of the Mosaic Recreation Reserve     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3I3cXJ2VTJZM2NJSnJHVG5EREVndW8rSkdRa3Iwak8xOVp0S3hEekJDc1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-163",
+            "name": "Mill Park Leisure and Aquatic Centre Re-Branding  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2dLNkFlbFN5NTYzbnB5cDg3RmxGQWRZQTNQSStib3JVQTczaU52WWxQY3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-165",
+            "name": "Root Barrier Installation                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0R3Q0Y3b05WaXhGclB1MkR3bGh3RTU3VnhNVm5rWVRZKzVOcWlvZUsxTUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-167",
+            "name": "Mernda Regional Recreation Reserve master plan    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21IMXhVc1FuMW14VzhGclJ4bG94VXVxOVF1K1U1S2NyTWVoeTlHdUoyVlU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-168",
+            "name": "Security services                                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pzaUk1aWMvWDRTMTlHSytPRkdIZmpBcGd5dzVoODRpSjZwU1EyU3hFdGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-171",
+            "name": "Recreation Strategy 2018-2027                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdVdVEvVGtKR1BPV05vWDIxc1NrTURMQTRBSHdYWmFzY3g1dUY4WHFQTFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-172",
+            "name": "Major Road LED Lighting Upgrade                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0hCN0x4dzZqMHo1WG1BMkRISEZhS2E0VFMrUmNXRjB2dkx5OTRrd0kyQTQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-18",
+            "name": "Mernda Town Centre - Human Services Service Plan  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFqNS93Vml3MmxOSXJwbHVoenpSRGx0aG0xZXZDMUxkR2Yrckp5MTVvU0k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-181",
+            "name": "Debt Collection Services 1911/0631                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0YzYVpPMi8waW5WTDl5Y1k5Vjc1K3RsTVJ0WERrRjFDaXZ2ZXVtbTVnVEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-181A",
+            "name": "Debt Collection Services 1911/0631                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZFMGprRWdtMytJY3I4R3V5T05DTHYxU3VsaXlWVzUzcTgzVlBzNDh4ejA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-183",
+            "name": "Maintenance of Height Safety and Fall arrest      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ljQ0FaUHpsSjg0d3JMa3NNWFVISjJYUjVrUHU1ZDkvVTFDdTRHTWRDdXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-186",
+            "name": "Supply & Delivery of Quarry Products              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzB1aVJJektIT1VCZUcwQlYwWlovZ2R3QzN1ajYyYVRDT0grU1p1eG5EMjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-19",
+            "name": "Construction of Regent Street between Nissoria    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZiZXBQTVhQMzRLRUYrR0d0c0VwdXdzSWpwWGRnYVl3UVl3Yk55WlBOdXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-196",
+            "name": "Supply of Electricity for unmetered Street        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3lvc1U1Q1VzZHFJKzRUWGRIVURMaGtrNXIzTHFpQU9KYTA5Nyt2ZUdkNGs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-197",
+            "name": "Internal Audit Services                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29tZXluSW0yWnQ5YVdzRXhUcW9KcWt6VmVvNWt1WDBOVllFRUE5U0FzSEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-199",
+            "name": "Family Holiday Program                            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2prVzVnVUk4M256bDNFcjlUTkpsZXltZk0yUjR0Yjh3eXRERG9MK0thRk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-201",
+            "name": "Redevelopment of the Mill Park Leisure            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3p4K3cvOUhLcG9hWnNiVFhTRXFlVE1SKzh2NmJaTjVKY1pNdlZxWkIwVjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-205A",
+            "name": "Leaning Management System                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xxL243eVlZdVRZV0RSeUk2SU9MYWExbzh3SzBWd2NQTkcxUmNwTi9hOXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-205B",
+            "name": "Learning Management System                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lVdVZYaG9lYlp2Y2FzcVFZKzVNUzV3SHRBSHp2M1NtVnkrejhmbVh6dTQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-206",
+            "name": "In House Physiotherapy Services                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1l1ZU53blNFS0ZKbjNSQUxGaW5ROG1wcXdacXR6OXFJa1l2TnI2WUo2REU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-207",
+            "name": "Design of Mill Park All Abilities play space      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O09TdlFER3NzTkVyY3NWMGRnTFNtZWtIVmRyd0hNMm5zcGF4MlBiV3RDZ3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-26",
+            "name": "Online demographic tools                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dJWEVtRkUxUFhGUjhNWVBPOURCZDFodmlLQWR6bktHMDhtRml1d2p3Mzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-28",
+            "name": "Development sequencing and planned infrastructur  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OythVHRVb21XaUtDcm9hQllTS2UzcWZmazJ5am9MUHd2NW1GcEtQV2x1Ym89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-33",
+            "name": "Minor Works at Janefield Community Centre         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01jck1MZnZEdnV4eS9DdzV5Z3R4UW9lRHhyLy95c0E1UzZia2ZKVitKTGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-35",
+            "name": "EziTracker                                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzBtcGZwVXYwYWFrZkNZU0ZLRkZTWS9GRGRmU3drbG9hY0xLbmt6RWEyS1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-39",
+            "name": "Land Valuations \u00e2\u0080\u0093 Development Contribution      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0g4NUU2TXVYd0dGU1F6M0h1VmxDbTVHRFY1S2pVZlZwRjVMM01vOEM3Tms9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42A",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dnTXNUK3J4T2tPWi96TCtuYnZmd1dIb3QzRGdPZ2c5cFdiTUVGUFA4OUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42B",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dwZ1hFTmVwR2ZHMHRwYkdiaDRiQU1vVFIxM0ZKSld1OFhUUVNSa2c1REU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42C",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dKUnlvYlN1TUpHblBQV0daU0pnNDlPRWtJKzhRTWt6a01YdTU3ajB1WVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42D",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O282WWRiMXdMQ2JlMmFtbGhyM0VvOWU2R2hBdlFsbXZldE5kZ2xiVkhKd0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42E",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0JOelMyWXJLWXREb2lhSlpLYWRPMEV0TksyNzBKcTcrOXVhRXEyREcwYzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42F",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0NIT2s3RkJHOFlLcjEyR0ZBVm9xSTZxWUI0ZENlYXBmMzB1YzdSMUd6Yk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42G",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3BIU0tDeTRIZU9CWFZWVVhQdllYQk1IQkwwVXZoeDkyZW9NMS9jN0x6K0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-42H",
+            "name": "HACC Property Maintenance Service                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05aaG1USTBMVDJmN1c3Vk5pNVF2L3R3bnJRN1FCbWdLalpmY2ppK1lSR3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-45",
+            "name": "Supply and Delivery of One Combination Drain      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2U3bVBHTEpXcGV3YjdyOWhjemlVdG9lYmxhTk55TzhoOExzaTJ6ZHd4WWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-47",
+            "name": "Maintenance Services to Automatic Doors           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2loL29xWUt0V0N3YmxOUHo3NEU0cFdSaWZocXlSdUZsMlh6WHdSUHlnWHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-47A",
+            "name": "Maintenance Services to Automatic Doors           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JtU3pSUitRdDZNTFdydUg1b0gyYWJQcVFNbHYxZmFtZUlGSy9KU2tmZ3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-49",
+            "name": "Leadership Program and Leadership Facilitation    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1YvNzJrcmRoaERCWi9aR05qbDZKeldaakRBeTRWY2JGOWMyMTlqTUc4bDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-50",
+            "name": "Council Agenda Production Software                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3pzZmU3ZWpvWTZxamU3di9BZ1dTZXlya2c4Y1NjRTZRNUxLS2NpT280Qmc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-53",
+            "name": "Bridge Design Lakes Blvd Sth Morang               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0NIK2JpR3dTTFU1THN1cGhURUFPbWgvOWp6WkdEYlR1TTZLVnFqZy9lL0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-54",
+            "name": "Service Proving Lakes Blvd Sth Morang             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dXTGNUMkVISzJsa0RZd0JzN2tpYzFzWUcrVzVaYnUrNUg0a0ZGaGR5ZWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-55",
+            "name": "Public Lighting Signals Design Lakes Blvd         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzhyM3AvcllIRWNleHZOWTdBbnhmRU5KTmZqTG9NM2VzZFRXdFVFV2p4Sjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-58",
+            "name": "EDCM Project Officer                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzJuY2tpOFBGR1h4RmN4djMveGdTRmdVSFNEWGFNcFRYM08ybWtkenhuTGs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-64",
+            "name": "Provision of Pre-Booked Green Waste Collection    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VqRkhFS1QwZ1FXVFh6anVnenNFZ0Qxd2Qwc2dXeEY0Qm94QUxqSTNia0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-75A",
+            "name": "Waste, Recycling & Green Waste Kerbside           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JWUldmT0hONllydWVWUEozVnQ2a3FRblI4a3dTTCtCbDRpSW84OXRpUDg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-75B",
+            "name": "Recyclables and Acceptance Sorting Services       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3cybHpPZjcyRHNuVGVDM3Nsd2V1cTdrQVQxYy80NEFkWU5xOVZSZXRINjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77A",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2JTTDJFVVBnbERYL3JIV0ZqeEVDdS8xWHMrWTQ1NXV0UmlvRWZXWE82OHM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77B",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2JVSXFraGhWYVRjMlVMaWRpdGVIUFhnVVk4cXJyOFVZSXYxYUlDV0gwNFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77C",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2UwRG85eXRxZS8xdzVmUnAwM3VYbzRLTlFDdndwWlQ3RGJFalpLNk41QWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77D",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZoSWhvME5kb1g4N1BoNm9hcVFTaDlnMHBWei9xTXMwQTVvTmFIa0FrMVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77E",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzJrZjlsZjk3bUpXWk83dUlRcXB0aEJmUXNOVlVRY1dPeXJNdnNGUGlQZm89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77F",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0hUeXdLYVNaQ0M4amVZaTd6NHFLdmIxQlREam9JUVZOME5vZEFlc1dldzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77G",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0s0QzJlZ3N1dlA3ZkdzRE9iem5Qa0lTbnhEbWFpbG5BZnZqUy9aY3RXbG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77H",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2M5ZjU4TUpQOGJEaDkzUTJGMVpsQ2lqRlp4NFhaVUJsWEhTeGZpeHg3a0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77I",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hlUDNyMjZacFhWRDVidkVkS1NkdUo4a1RUUnhnRHcxSVJDNkkvdkx3VjA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-77J",
+            "name": "Fire Hazard Removal Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0FSdEh6Z0JoNWZtRktmenJHSWxxV1IrcjZ2Mi81WllLUGJnRG91WktmS2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-86",
+            "name": "Engineering for new road entrance TH Hurrey       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01IbXlyNVIraHIxcE9RaWd3bndyeFFMbEh5V0NzR0lqdTZBZjJTZUh2MkU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-92",
+            "name": "Asset Condition Audit of Dr Harry Jenkins         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JiWWRnOCtXYTRWRWY5YlpobGxvSzlwZmdISktGR290dWZmUk9XMDd3QTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-94",
+            "name": "Traffic and Parking Investigation                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3RTU3ZUemdFK1VhczV0UTAzVjV6Y3NqbnlEdXo0eXUwc0JGVURqMUdRbGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2017-95",
+            "name": "Construction of Pavilion, Soccer Pitches          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1creW5aV2tlVTNhN2NTUWtzT3gyTEh1bE9BN0NHY3EzUzdoQUcvdmlqNjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-1",
+            "name": "Design and Construction of the Harvest Home Road  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3NGWEE3TGRzMVFYYStVR3ZSaUM5V3M2YVp1QWZIeTVrcmpESnVybWp1dDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-100",
+            "name": "Mobile Computer Device Deployment: Round 1        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFQa01lbWt6R2o2TW5yWmlJUk9mbzRHQ3pwRWNHdk1YYnFNME1OQmJ4OUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-101",
+            "name": "Design and Construction of the Sycamore BMX Trac  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JzM0U4cUhyYlZqcDlyVmFlZm4zc1RxajEyWFdZWnNpNURkVHZianZqVEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-102",
+            "name": "Construction of Edgars Creek trail \u00e2\u0080\u0093 Spring St  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9JUERFMVhxTnRITy9BQndpK0U5aksxTGZ5VUU1MVJxSjRIZ212QmZMNEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-104",
+            "name": "Public amenities at Prism Park Tennis Centre      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0JES0phTlpacmhSRHIrbGlYd0FwdHJyYVhQUzU1OWE4WjgyekZQNGI2OFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-105",
+            "name": "Ridge Road Estate - Tree Planting Works           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hiQ2Q4cVdpcEtyOWdGa0hGeHErRXp0clFPUFlVMGFlOHJ4OTNqdFVCaDQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-107",
+            "name": "Solar PV System at PRACC North                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lKQVF1c29rNllaNC9QTm5IUHBzRE9jM2tsTEhBK1Y4UDhoSTlpUDJVRFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-109",
+            "name": "Construction of Traffic management around school  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0FpYzNhSko5NEJ6dGl1SkpSUXVkREpxeUE3S24xMXUzVnF0Sm5XSjF0Ym89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-110",
+            "name": "External Ramp and Decking Works at                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzkvU3NSWEs3V2ZMRlhvaWtTbGFwbmV1OW5GQjQ5QU1ZRk1yUHdHOWxZYVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-112",
+            "name": "GFGC Lease                                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2lTdjMwalZ3MGxCaHJmbWlTNlVhRXRhbFhTdXNNRTlZUEFMdFljNUNGUlU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-114",
+            "name": "Construct additional storeroom Spring St Hall,    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1pkRzFHcmEzQVo4YzZhSmtCL0VZazBoSFFHcjlmQlI0T1BFKzFGYkpQcTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-115",
+            "name": "Upgrade of Water, Sewer, Stormwater & Gas Servic  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0Y2cjRmdHVJeTY3WnliREJoQzNFUlhpMTZubUdiNVdpUUFqbGpSZ3YzN1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-116",
+            "name": "Upgrade of Electrical & Telecommunication Servic  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1oveEZTOTFWcEYvUS81SXU2TnFneG9tWllweUxzeUJGUndlSHRsUEJaYWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-117",
+            "name": "Refurbishment Works at Mill Park Library          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w1Rm9MRWM2QldqcDBCbTArUGVPRHl4bHR5elVCbTd4TFBpdU42Z08zMEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-118",
+            "name": "Joinery Works at Milll Park Library               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZZZ0M1Y2ZhWVErWWZIZFdEcXJ3K2twQzUwY2h3M2JEUVEvNmxibzMvTUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-119",
+            "name": "Supply & Delivery of furniture, fixtures and      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0h3c2ladzhobmtQV2hoRUd5amY3QTZCOXVPNk5rOEwvN01rMitrNUo2Qms9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-121",
+            "name": "Construction of carpark at Main St Reserve,       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRzTnhlUThpK0NpYS9iSTF1K0tQOTlKcExZZW1hbmpnVFE3dVJJZmVIRmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-122",
+            "name": "Salesforce implementation services panel          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oys0UGllN2dma1puTFpwVkVZd2dmWFpjaUt2SXRjYk82eExIRHFqcldkYWc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-122A",
+            "name": "Salesforce implementation - Minor purchases       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Rxdk02dWhlSkc3U0htaTdTZzNhT3NGeXV4TkovNGJ4cXhqVldwUzZpSEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-122A1",
+            "name": "Salesforce implementation - Design Phase          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy85YTVWR0hNWExZZ0RPWGZIaFpoc1JJakl2MmxvUmM3bWpuZHNnSVMzQnM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-122B1",
+            "name": "Salesforce implementation - Build Phase           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1VObGZQakI1UVdvZ1ZDMnI5U1Fpdm1lWjRBTTJZU3NyUGNOWU9HVVJ2Vnc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-124",
+            "name": "Installation of solar pathway lighting at Border  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Q1aWIzS1FoeCs2UmxYcGlUVitLSlNLRG1HK2NvK3F5YnFhbWcvM2c2N0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-125",
+            "name": "Bubup Wilam - Architectural consultancy services  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0RCMkxXWWVydXo2VkdUNElqeDZGYzdoVE5lck1nbUNHYjF3Mzl3NlJQUkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-126",
+            "name": "Employee Assistance Program                       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZUSjgrT1lWT3lmZVoybjNUTFJvUW1FcGowb0hOKzE4MkpRamF5QWhMRU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-127",
+            "name": "Supply and install of new Lockers at TRAC         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w2RS9LTnFBUWV2eFBjNXRlZnQyeGo5Rm9nZDZ2VkpPTFBzd1BBYzBWL2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-128",
+            "name": "Design & Construction of Modular Room at Duffy S  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21YWktzNDRBN3J3bnFMQVI3S2xFRVdLN0tjb0w5TkRsclVnQlkzeUFXM0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-13",
+            "name": "Retail and land review consultancy                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdYS1FXdlJkOTJNMXhnR05vd29uWXI1K2hpZDg4UWZ0Vi9EYUdYdUprUm89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-130",
+            "name": "External Works at the Mill Park Library           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2xJcVZSR0FiTEFmRjM1SjJEUjZwZ0VkTFdMRHh4QzNmdVRZU2llZy9oNzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-132A",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Rpa1J4K2hnUVRyRVV4bVNpUFZlWURIcWM3ZVRueGVyNm5WMCtOaGpSWXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-132B1",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2prdHY1dVBLWGNYUG0vTTZscGorVEJoSVF3RGZiUWw5R29HajBlTUpNaWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-132B2",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1NpY3h6Tm4vWnZEc3ZTc3hMZmZWcThMNCtLWFNuQ0Fnc3c4R2huaDFpcjA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-132B3",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3BaSFZoSnpiSGorMWFBVUI2V1o0R3g4ZmVDQVlGZ0RzNitpN2pQNHI0Sm89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-132B4",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytocTc5ek5uS2xRM2s3TmphS3FFbHBCNXZLZi9MaGpXT0kvaXZiOFhiWFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-132B5",
+            "name": "Supply of Road, Drainage and Associated Street    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VxTGk0ajdQdmJxOVpZQnJSRituc2pNMW9wZ0wrekFTQ2d0QU5VUjFSejA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-133",
+            "name": "All Abilities Play Space \u00e2\u0080\u0093 Junior Play Area     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3psSGFtNFA1NWlLajc4WmdzanoyTXRoclk3UytuU1RxcmhGYlQ1NjVQSEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-135",
+            "name": "Stage 2 Design Services for Whittlesea Swim Cent  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01HVVdxRDdvdjVQb00wRUdTQ2tjdmxsa0tBQ3pSS2xVVWx1TFUzU1dKL289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-136",
+            "name": "Unaddressed Mail Services                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0V1SDRkYUNxTytsOXVGcWtDSkFUUldwYitsKzl1Q3ZZbUtIcnVkcU5xVWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-14",
+            "name": "Design & Construction of Main St Pavilion,        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1UyRThHcjl1aTFSY1FmYWpFOCtWUkR0ZWN1NUk1N2RQMkJvWm5mTDhzV0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-15",
+            "name": "Biodiversity Action Plan                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0F3SkhwdkU0MkF3bTlGanFmVzFuSGo5OXVlRDlIelNwYjBsNVJBQTczV0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-16",
+            "name": "Implementation and Support of PDF Markup Tool     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzVzMjhhNjRlMVR6U2E1UXBVZW1JM3FiVjVJRkhNZ3U0TDJuMlBFUUwyNGs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-18",
+            "name": "Refurbishment of the Soccer Pavilion at Duffey    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlCLzJhSk4zUHN5ckk4b05lQ1hNV1VqVkNRcVhrUWxBTXh6VnFscmZwWlE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-22",
+            "name": "Refurbishment works at Whittlesea Swim Centre     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VuODNrdUl2Uys1RlNDZzV6K1BnbzI2Mm1EcEVsendxNGFlOXJxREtoekE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-23",
+            "name": "Pre-Booked Kerbside Green Waste                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzJuVWVLczFFNHBhTDgvNjUvN0pJMEFjcmNWZ0txRmJWdG1DNWNseUpRUDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-26",
+            "name": "May Rd Lalor CCTV Project                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lPN3RzUXRvZGNNMG1oVXR6S1hVUUNyRDNQbEhpakFqa3Q0aXdhbUtpSDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-28",
+            "name": "Automated Dial Before You Dig                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZaQ2t2Tm00WHNoS3ZiQ3duWjdsV2ZBdWhZSTZBTjNHUWR6ME1Va3cyK1U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-3",
+            "name": "D&C Findon Rd Ferres Blvd The Lakes Blvd          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05UYnhGQnNpTWlKeXEyNVpKWkFEdEs1bjNYamsybDU2VCtaRzFEZlNvZ0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-34",
+            "name": "Hire of AV equipment & other related services     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3FtS2d3aC9DM1JTRWNpb0xncE91cmU0MDBwQWFUdWhFWWt3YTd0Tk1HUjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-35",
+            "name": "Marquee & equipment hire                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pyKy9RYW5mamJ0YkN0WFVUanlSSnE2aUhHZkhZekx2cmgxQUVKdWpYVGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-36",
+            "name": "The Inaugural Annual Dance Affair                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3NWdWxhcmswSWJIRE1DSTJhUlBxR1hDdm43OGJ0L1IwRlhwT1NRS2VpeEk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-39",
+            "name": "TPAMS Internet Service                            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1pOTG1XZG9zbjBqRGttZmNlTmJMTWh5WS84YnRDTWxEMnEwMHA1OU5xNGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-49",
+            "name": "Maintenance of Traffic Signals                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0RWNVJoOGtCZEt6a1FxNUhDYTF3R3oyZUs2MkJ1SWdKRTQ5QkoxMnhybTg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-5",
+            "name": "Community Attitudes and Liveability Survey 2018   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRYb0NiM3RMZWsxMlFDUHNtWEZxdHkvZXZ3V2t1OU16eGNYTWFjU3JmNFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-54",
+            "name": "Lighting Works at the Sycamore BMX Track, Mill P  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29hR3U4NXBaQkEwdlIxVkR3UmdFOFFlRjFCdDFyNEFYVlZBRnR4Wmh6SEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-55",
+            "name": "Design Services for soccer pavilion and modular   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xyZVdQMk1GTWVGWEhvc1I4QmlFQUFlWWxoc0dFVDBCRmQ2RVBQVFM2Wmc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-56A",
+            "name": "Tree Removal, Supply, Planting and Maintenance    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZHT2FxVnYyYTJNZ0JjcHlWUEFDalQzTUxxNjg2OXZyOG1SS3BtMXVQVUU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-56B",
+            "name": "Tree Removal, Supply, Planting and Maintenance    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w1OFJuVC9qMFRVajRUeER2OU5zanVyU01UamZqMVZsRVZCb2pycmpuTlE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-57",
+            "name": "Design Services for Refurbishment Works           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3J6cGU0dWE0OGVDSFZjV3Y4QTc5RWRvb3NHWG0weVQ3dngwSndrbVRkbTg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-58",
+            "name": "Cloud Infrastructure Services                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2J4NTJlU2dxRlZVSGRpM3A5elE2NldpamZlUGZzd0pSTjVHK1A2VjYzdWc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-59",
+            "name": "Enterprise Applications Integration Middleware    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2haNmx1R1BSQitDMTFwZTB0bEEyOGpBbXgvOTNYS0ZYVElRUzd3bGZ4RU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-66",
+            "name": "Culture Survey 2018                               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3JRTFEyZ2ZqSm4yeTdUWjF4MXVHU3JsZCszeU12YTF0U1FVYWxualp0cDQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-68",
+            "name": "Sanitary Services                                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZWNVovTFpqbXB2YitKeGNyTlpjTXMyMklLZVJDUkhpZ0FGQWpDNCtuTG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-70",
+            "name": "2018-70: Customer service platform                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlJYjRwRC9OUGFSNTNXaHhTdytrc1Q0TFROTW1rWE5mWGxkN3U3aUJCZVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-71",
+            "name": "Design Services for the Thomastown Kindergarten   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2FlRk03ZHlRNXN4Zkh1WWVrT1BOeC9KMVZRdWZHa3dtRTRTZGlCWFFQZWc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-73",
+            "name": "Maintenance of Passenger lifts and Wheelchair     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Q4V2E3MnA5a0thM05yN3JNK3l5NWorNWZjc01iZGN5OTMwSEkwbzF5YXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-76",
+            "name": "Construction of a Temporary Carpark at 28 Morang  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OysxZHdhS2JDYXB6Wkhwem5VRUhhSXdxOTZoUE9PUTJxWFp2SFJqbDZnMVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-77",
+            "name": "Yan Yean tennis courts and associated reserve     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZWNzBYTDJ5US9rTDFSbzJHUWFIeUVYOHlxZVdySDlvTVFGVy81MGZnSWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-78",
+            "name": "Lalor streetscape improvement works (Stage 1)     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Nra3lxMHVZL3ltSVJteC9yT01XMUxhcUpmNEJ2K1pMUWw5MFAyNDFCbXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-79",
+            "name": "Construction works at Dennison Mall, Bundoora     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2o5YXJJZGwrK29mMjlGQ0p6YTZVZnlXM3ludmxjeWorY05sRmkrcEh1UFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-80",
+            "name": "Relocation of portable buildings at Harvest Home  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzJlcm5FUk5YS1djaFduM01YNmgvVE9BMjhZVE9JOE50cXJzTXIwaUlndHM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-82",
+            "name": "Finance Management System                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25PN0hyejF1eG5VNzVJc2k0QlIrZ1lRTFFJenJNZHVoVE5YZGdhL3pnRFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-82A",
+            "name": "Finance Management System - Scoping               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1YyWFpBeUxQamRXTmd4ajV1VXRQaWt3VFhxSzNqVERvZ0hHRHJndFZtTUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-82B",
+            "name": "Finance Management System - Scoping               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2tNUlB5NUVESGVEUkE1Q0REU3hYME9jTWF2MGhYcG9RVkdrL0FPNXkwV0k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-82C",
+            "name": "Implementation of Microsoft Dynamics"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzROOWNiZkhPaFlSdHQ2UCtBcFE0a2FQRjBjam5wcmd6Nm9pNGtjT2NXbk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-84",
+            "name": "Design & Construction of Norris Bank              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1VEbm85VjNxbXQySVdpdmNhc3hSTVZuVHQrS1ROU1d2RVhPNXYxYzg3dmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-87",
+            "name": "Norris Bank Reserve Playground Upgrade            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3I5Zm4relh4L1NFejRHVk5mdFJVeWt5UTZiWDM4Q0JjakRKUXdSRy9EQ009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-88",
+            "name": "Panel of Providers for the Provision of Various   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Q3NEtuQXVkN0MrcStqZzE4TWhMTFdrT0M5U0QvUEs0QUo0bkF0Wk1DTzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-89",
+            "name": "Bridge Inn Road & Cooks Road Intersection and     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZ5aTdLV1Zpa2R5TndVb0hsTlFZV2JsbVNGR3g1R1liTXE3M1VhWThPV1U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-9",
+            "name": "In house Physiotherapy Services                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O201Z3c4NzVIYTdna1ZYbnV3QjQvMkdidnVveHVTRmpmN0FTTGN5Z1A2ZlU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-95A",
+            "name": "Telecommunication Services (TPAMS 2025)           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pLOWZzL3hKZkdFd1FOd0Z6MjBqVjJ3bVlBWlhTQkJmUVBNeUFjak1sU009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-95B",
+            "name": "Telecommunication Services (TPAMS 2025)           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hjam40YW54emtlVVk2V0g4dm9kV0lFdHRlLyt3SVVMSVA3Ulp6eVZJVmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2018-96",
+            "name": "Delivering Social Housing in Growth Areas         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ltcjVzMnMwd3h3enBoTWZ1ZC9jb0ZVNXRtV1FrQnNCU09GUjVJN0ZEY1U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-1",
+            "name": "Lock & Key Services                               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlVbW9nU0NaNXFaL21sV2x5VzkyOXRYV0xSc3g2cjV0QmJobmFxMEpEanM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-101",
+            "name": "Thomastown Streetscape Improvement Works          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tFcHlEUFoxSFl0aWM0amdhM29reU1iQjA3MW93YWFZaUdlMmNEL0d6N0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-102",
+            "name": "Construction of Traffic control devices at        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3kyTXo1SzJNeExYNjRXZXJRdWQxRWlYL2o1RFZsVnh0Sk1VVWtDbWpUSEk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-103",
+            "name": "Growth Area Internal Operating Framework          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1BOQjlZNzNLTHB6NVhGeXdjbWl6ZzM1UW9TaExyWVBsbXJRcjBSY0lsdmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-105",
+            "name": "Services for HVAC and Electrical Services         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9BcnBFbjVkSEh2cDlISis0MU9QYitRZU1ETldRbXVXaEgwdGhaVCtCVkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-106",
+            "name": "Whittlesea Public Gardens Residential             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hKRWNBZFBmdkZFMHdISHhsTGVBR1NrY3ZZNXNvd0s2eDhNckNLVy8zUms9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-107",
+            "name": "Design Services for Bridge Inn Road and Sackvill  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0FvTEd6eU50aFZWUk90SUNVSVZERC9kUUtEeTVTT2ZjeWJMa0VEKzhZRXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-108",
+            "name": "Landscape works on McDonalds Road Sharepath,      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1lTNkFacGlnU2VDa2diZnByU3pEcEtyU054dnEvVFFsQ1RIZ0lYbUM2aE09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-11",
+            "name": "Integrated Water Management Strategy and Action   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29taXpNT2VFbnBiWTNWVG5lRHViaWN4L1RlRVpJZWdKdTRDZnlIdTFINkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-110",
+            "name": "Installation of Pedestrian Operated Signals       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ROaWN2KythK3hyL2VHSGYxTW9tZVFUN3hQSWJBNGRNdEtXQUI3NXF2YkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-114",
+            "name": "Provision of Plant Hire Services                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1FVSUdLTlV6UXkxU0JpYUdqb2U0QWhkOWNmdnJwUWhRZUtJa1ZLd0NhNFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-115",
+            "name": "Supply & Install Municipal Signage                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZRN1g2cFgwbThxUWoyTXIwQmVJZEFFTlB0blFOZTVFWWFsYThzL0xmbkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-116",
+            "name": "Supply and Installation of lockers for TRAC       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lKWUNSSjJ2bUFZL2NoODNpOTdCWXJEQXd5czFGekZhQjlPUXNPNHhZVms9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-117",
+            "name": "Delivered Meals Service                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2JnQU9xbjhHVlZISlFYaDM5NDF1R05nSHpjb2VGVkUzYlRkblk3ajZPYzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-118",
+            "name": "Street Light Audit (MAV Contract No. SL8010)      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1lzcmhoWnZKV1RNcy8zcUhBakpZZFpybXIvWjcyZi9oSzM1RXk2clVtclk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-119",
+            "name": "Recycling Receipt and Sorting                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3lBUlI4dDFNL3RYU0RrMVpFR09oRENSL3c0RTNFZ0x5SjJsNlAyOHhHcTg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-120",
+            "name": "Supply and Installation of Landscape and          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dNbnBPWVlzdGh5VFkrOHA1dDh5bmFHR3JlNzZWOFZkMkUvaFhOUFF1eW89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-121",
+            "name": "Services relocation and consumer mains installat  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Y2TnlCclA0ZzE2RzVCNm1UWlU4ZS9DNFFwUnk3SmpPTjRRWkg2MUNCL2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-122",
+            "name": "Leadership Development Program 2020               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2VaYUJKSW44K0JPUUhHVUMwTkZIUFhoWkJybVV1MXZzeG5jUUdTYVNyanc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-123",
+            "name": "Drainage Repairs 71 Kingsway Drive Lalor          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzA2UlJpYTduMDBkeEQ0RFFIeklERlF2czFob2R3eGVoMUJqRVcyaHZLaVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-127",
+            "name": "Installation of Traffic Signals                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1k0SEFoU1FtVys0V2JWUS9uZzU3cXF1aVN2b2dGS2NUQm5uYjJuNlhjaG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-131",
+            "name": "Lalor Streetscape Improvements Works (STAGE 2)    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Rsa0E3MWVPdlEvTFJ2OVY2UEdaa2ttOTYzaStDSUZ1STY3aDNKcWlJR1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-132",
+            "name": "Supply of Irrinet Service and Support by          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2phc0FzTVRmVWEzRkY1RE5PMGl4dEtmN3VnTmh4QVNzTm5rcWVDSzV6NlE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-133",
+            "name": "Implementation, Maintenance and Support of a      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01wcHF5RmpXK0l3cEhxQVA1My92VzZnMXZEN05YN2k5RVNwSTVhaHlFKzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-134",
+            "name": "Lalor Library Garden                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hXd2tuU2w4VlBqVS9BUWNRTTYvL1pVN3U5VG5VZlBrQnlyVjNlK2Nwc1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-136",
+            "name": "All Abilities Play Space \u00e2\u0080\u0093 Stage 2 Lighting     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZtQzZmUDgvVHNlRWs5QVR2WE9vb2ZROU1yREhwN3pVdUxTTWJoZHZFc009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-137",
+            "name": "Supply & install a solar PV system at Barry Rd    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O09Iemt4WWx5YW5SN1pmK3FwVGlvYWd3Y2JiNkgyMXd2L3IwVXJKTFpFdlk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-138",
+            "name": "Supply and Install Toilet Facilities and          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25QV3pteXhzUGovY1dENzFTN0h4N2IvYUd3ZHFVT2pEaEVYdkNQT0ZPY289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-139",
+            "name": "Recruitment of CEO & 4 Directors                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tlNDhIcHFURy9FZmkyelZxT052RU1Ud1lld0dlSXlqcDZXOFcwRDlOdTQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-14",
+            "name": "Findon Road Extension \u00e2\u0080\u0093 Williamsons Rd to       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ViT25wSjZsaU5lSTdUc2FtQVFQd3RjOS9OUWtzZmZmK2NSMHlGZ2xrbmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-141",
+            "name": "Bridge replacement \u00e2\u0080\u0093 Botanica Park, Bundoora    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2RMblJaWGZ5aUg5TVVjM2hGWjZvRjlGS1IwV0lBYlpRb2U5L2V3Vlh1VGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-142",
+            "name": "Design Consultancy Services for Signalised        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Y3eVV0dTdzNkdoRStLTmNXZFg3RkZxamtJUG5yVFhZeTZMVnk4Y00xbXM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-15",
+            "name": "Construct and Supply a portable Marveloo Toilet   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3FMd1hvRi9XUnhyOC9UalhsSkR4VjloRzFTVkxJbytVL2NHamZmYlVsRk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-16A",
+            "name": "All Abilities Play Space Stage 2                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1FFOTVSYldLSmFRZ01xQ1l2OXdFMWRFOGZaRmdYdjJ4N3RBN1lOeFpTZnc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-16B",
+            "name": "All Abilities Play Space Stage 2                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZmQThSRWxYK1lJK3E4aWZ5VFhFUkZEblJFRjZiUDVOckhCSkcycnh3d1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-17",
+            "name": "Mernda Adventure Playground Decking Upgrade and   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dLN1dBMjdFem1Kb3VwdDg1UWNBQStCT2dySGpBYnZ1MjJPb282ZE5TNnc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-18",
+            "name": "Thomastown East Reserve Park and Playground       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2IrZkhWbDJoZnY3T1lGaUNSN1RMckJCWitqMDBqSUtnUUVLci85Z0VCajQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-2",
+            "name": "Conservation Management Services                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VONjI5ZGxPMnlpUEU1MnFGUTE0bGVyUXZGbWVGdFNFZkQ5aHBSZ3Axa009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-20",
+            "name": "Playground Auditing Services                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2Z6SjlTZVR5d1Z2cjE2MkV4NG5DZVFXek5DazI3WXZiYjJHMHRnMlc0Mkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-21",
+            "name": "Irrinet System Service and Support                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9aWVRzdlJtQXlLRG85bmpsajBHQVJSZzdTRDJmYU96SFFuSlVoeGdkaDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-22",
+            "name": "Recycled Water Quality Testing                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2s5blBET2J4MjJxZnBHLzdvT3AvRS8yVThvemVpWmxzY1MzUWdseWFJRG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-23",
+            "name": "Online Police Checks                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O00rMlg0Wmx1V2NyN1MvemRtM3VwbEpkK2ZEZkh1Z08vZGJrYktvYVBVR3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-25",
+            "name": "Food Sampling Analysis                            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2tHMGlPQnR5YjQyNmNueEtBUnVGbnVJdG9LOEZqUHpmZWhxWHJlNVhPdkE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-26A",
+            "name": "Security Services - SoR                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0twd1BOZlZNYU9hYUltdkRMODRSenBaSTR6Ulo4Nk5xeWxMZ1RFQnFhMHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-26B",
+            "name": "Security Services - Routine                       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VHdjdySHVTS3B4b1JaR3ZrOEo3Z3ViRk12U29CdkkvejdlUERrMmhFNEE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-27",
+            "name": "Evaluation of Submissions for Mobile Computer     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3p1V3h5Q2t3cjhXWlFxc2VmZ1poMHZUaXU4Q2cwa2FERWswcHV6TnBpcWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-28",
+            "name": "Construct shared path, transmission easement      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzQ3QklnbFcvbmV1c2dCN3JTOUJBR3lpVTJTR2srWUxEM2dlS0NnU1N3YlU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-29",
+            "name": "Supply and Install Solar Carpark Lighting         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w1Qmk0RDV1UHJIMXlLRHJGcHYvZG9TV2FOZ2drZkdYNmN5RnozVEZ4eFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-3",
+            "name": "Design, supply and installation of Low Calorific  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VlK1JpS2N6bXpsQk8rL01Ha0hVTFVHeXBGY2NscWtFYW9QeVNRWTZSNTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-33",
+            "name": "Mill Park Leisure Health Club Equipment Supply    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hISEp3YUVZTTRqT1Vya3ZSUU1CU1NhakpHc0FkTUtnNk9zSFdXVlNKb1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-34",
+            "name": "Supply & Install Park and Playground Works at     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3M0bEk0Mm1GTjVTZmJ2Uy81VVduU1kvQWJEM3FaVFhPRVZXSWVkRlFiOUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-35",
+            "name": "Insurance RFP                                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3RhTnpScjN5bzI3d0xiaDR2VHZQSUxJWWpmSEZrTHlXV2FOMWI0V2dtYXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-36",
+            "name": "Natural gas - large sites                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2F2MHFzTzRCazFiV1lRNTU4T0xyRHh6VWkxYlRHd3BDaVVpWVdUTWVPTTg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-37",
+            "name": "Natural gas - small sites                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1M4TlNCWDFnaGxVV2d6bDBENFVkTVpVMEpGYzdxQ0NFZVUzaXBOdkdxcHM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-38",
+            "name": "Darebin Creek Shared Path Landscape Improvement   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O09SWTIxOVVWdlh5dGhGZnlxdk5ZYmZDaCsxekorUGhqcVp4YkVBdnRrM0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-39",
+            "name": "Design of Traffic Signals \u00e2\u0080\u0093 Yan Yean Road and   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZNTUMyZGhDOFFFazF6dit2TlNMYjRRdTBkT1dDNjh5Y3N3YXphVEFreFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-4",
+            "name": "Major Road LED Street Light Installation          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1RLam43NkVMZmhlb0xxYlBjS2dPYTNMUXJLMzBmSzVCQStVd2NBK1ZqZlU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-40",
+            "name": "Design of Yan Yean Pipe Track Shared Path \u00e2\u0080\u0093     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Ozd6OGx0OTFZUW1xakc5QTQ3TW9KTmtya3dKemQ1NmNyZWNsc2tmMC8yc1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-41",
+            "name": "Findon Rd Extension: Danaher Dve to Williamsons   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzJKQmRMYlQxeUI5OTNZN1RQOW4rbkR6Qi9TZ2FkMzhhcCtwR2doWXBEUVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-42",
+            "name": "Cleaning Services                                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRKSk9pdXpTOXJRNTkxNVh0TzNkZ2pZWDBidUtuVlF4aEREdWZneSszNFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-43",
+            "name": "Floor Covering to Change Rooms at Whittlesea      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzJJTWNBTE9VbmFKbFR0Z0xRVEwreWMzalBCL3pyR0ZPbkhHOHhnNTZybU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-44",
+            "name": "Lighting Upgrade at the Mosaic Reserve, Lalor     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2Fka213RnZ6eC9lYUgvUVZKNUlOdU5RYU1rQVZhUFZ4RCtvZmFaazZMb0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-46",
+            "name": "Clue Property Assessment                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2d6UmVnUzExNlVrV3dkUVRrb1pTbHJhNXpNMldMQjM4d3ZWMkJHN2lOSFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-47",
+            "name": "Domestic and Council Office Waste and Recycling   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2I4d3RMRG9Yd0hmOFFXdUlNSlJockNycGQ3RFFZR1RCNExjV3VxbWI0cjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-48",
+            "name": "Provision of Stationery & Office Products         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytoSkprNzkyMjRoaElhWlhMbzVvZTQ4T0RVM1NNb3VSd0dHMC9VWG1tc1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-49",
+            "name": "Park & Playground Upgrades at Telopea Park,       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1NXTmRzN0prMjV0aFd3WkpiNFR1TmIyelhaTTUrY21DR2JMSEJxKzdTSTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-51",
+            "name": "Steel Works at the Mill Park Library              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dtRUkzeUxRT094SUl1ZVI2NC9TNy9HbklvMkVKeW5HeEtKVXliYmlwU2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-53",
+            "name": "Supply of Roadside Hazard Protection Works        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2xUck43Uk42YXFvZTd4Y3E5L2g5QTdlWUVmSjlCT1RLZFJxcGRnNXVzcU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-55",
+            "name": "Provision of Hardware and Installation Services   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hZSStqSVdzU01oVFplOWpWSGNGREdHbU1qNnd4dzlJY2ZHYllERnc0L009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-56",
+            "name": "Supply and Install a Bin Enclosure at the Civic   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2F0ckpxQVhHY2tva3M1eThnK24rTjA3V1EyeFhvS09OdzhtNlBvQ0ZEaXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-58",
+            "name": "Betula Avenue and Garden Grove Drive Roundabout   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3pjSmZ4QlhZTmlKWGw0RWlxQjB0MVN3WWlSeXBUWFQzTWE1VE9qVGMvcDg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-59",
+            "name": "Extension of the Laurimar skate park facility     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1l1eEdCL1loeU8yRjVVU29VY2s0MXZHVjlsSUVCcFA5QlpRQlRKUkZXeUU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-6",
+            "name": "Dr Harry Jenkins Reserve tennis court and         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZaeVpMTFpoT3d0RWR4RSs3ZWFQeGtOc3RDOXNyY0lNalQ5YjNyeU9LUUU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-60",
+            "name": "480 Cooper St & 355 O'Hearns Rd (Lease of land)   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZPSXZkUkxrWXJnSnBuV3NLMEJ5eGt1Q0d4UEU2Zm9DejlGM2FOTlhjZXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-61",
+            "name": "Repair of rubber shared path                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Fyem1YbjloSlhKOWdTYUtmeXB4ZE9MRnFmQTZtTmR2OWJydU9zY2VQQlk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-62",
+            "name": "Utilities Management                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1VEbGZpb0NNWGxVRXhacVJuUlBKVHF3SElyTStGN25DdGlvdXlZWDhBNzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-63",
+            "name": "Design, supply, Installation and Maintenance of   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2N4UEJMUjFJQzIyTk1rYWoreDBlUTcwSjY2TVVLcG5ZTWFia0pkNHhlc1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-64",
+            "name": "Generator and UPS Maintenance                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzI2WEcrbFRmam4wd2gwZitoblFucThEb3Y0S0hoV1J2bTBxelRHVnJZcWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-65",
+            "name": "Supply of water play features for Whittlesea      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pqODVnbGdzcGlEaFp2cFlvZGJEOWdUc3NvL1c1SGJTVUM3ZWNJcm9JVTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-66",
+            "name": "S&I of irrigation system & instant turf at WSC    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dXSVZ6cVJ6WGRrL2VjbTE4TGVPOGtod2ozSkR3c1h1dnNyYlBKa2NrNDg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-67",
+            "name": "Hazel Glen College & Cookes Road traffic          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pTcGhVaHRJTXRsM2l5VmpNSzJUSzF4dnhVU04zaENQaDlxMkpaUWNXN2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-68",
+            "name": "Design & Construction of Splash Pad at WSC        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2FPU05ZOERLUVhscWgxRVZ5K1RWYzFOMklGcG1Mbi9paEgxYWwyRUoveVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-69",
+            "name": "Construction of Changing Places Changeroom atWSC  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3l0RXNZTmtSd3VFeFcxcVVJMXlMMDJQUmVMYlVMTytpaGV1dDVWWUhmaFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-70",
+            "name": "Whittlesea Public Gardens:                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21NS2k1dlhncjZvL2pMd2xTaElDQStNNVppL1ZvNEpvRHlSZDJyNHJTZ2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-71",
+            "name": "Temporary Agency Staff Management                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3NhSHc2ZkFJNkhCRzZZRmExWWpsSlIxeXY3V0dSbW9iT1crTkF4UlVzNjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-72",
+            "name": "Exeloo toilet preventative maintenance and        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZwKzdXSWlQL2RyVTlySFJGZVNPMzdqclZXRVdGRU5lUG1QejhwZjlPaDA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-73",
+            "name": "Enterprise project and program management         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFaTCtRaTZhUHJBRnRrSEpXRHZmVDBJTUVqQUw5YXl5a0lvY3FTSUVlRWc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-74A",
+            "name": "Commercial Crime Insurance Premiums 2019-20       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0RRUHRMbGJ4NCtCbCtyVWl2c25UdXZzWFNxZEo2WTJQSTI0cFVrdkRhWFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-74B",
+            "name": "Public Liability, Professional Indemnity          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3lnelZKMmpyTkdNdDQ1bitncEpWVzFwbEtRNERqTnN4YkxoRURxNXl1cFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-75",
+            "name": "Insurance Premiums 2019-20 & Brokerage            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0E5Q0FTUTM0QTZTeDdNelUzQkkyQ1hITjhzeWV1SjBDemdDWkE5ek5YVFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-76",
+            "name": "Photocopiers, Printers & Associated Products &    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pVV25sS3JIaWZRUzE5M0UydFh4dzJFRUZZU28xTkFFUkl5ODMwZXJBd289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-77",
+            "name": "Design Services for the Redevelopment of McLeans  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3k5NWw5b3JZZXBEcS9UaTVTR0hTeVdhOVhaNGVqZjN2MXdxQm5JNEN1SzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-78A1",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25pN0VmczJOK1pVajNNWllJZHNvREJDZzIzN2VkSE9WSXhnOXBoV3F4dkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-78A2",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dvSGxNa3FHR3NYZnJSY25EaXBhY3RjUFJCVU5QaWxIenhMRVQ5SGVvNEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-78A3",
+            "name": "Supply of Asphalt Works                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pXaHJVUmhIbzY1ZkcyUlRZU3B6dkREWG9TOGtyR2lEMVdWZmRmS3lLeVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-78B1",
+            "name": "Supply of Asphalt Materials                       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2lwUi9kMzVPVWt4R3Z1bHRDMGNWRjE3RGd0NE1YMWR3VzUxeEtqMERWMGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-78B2",
+            "name": "Supply of Asphalt Materials                       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1BwSit3OXlqcWlVanpPbXJFM2lvbUNqcjdhZTgrSG9NTlE5R1VsMTF6YjA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-79",
+            "name": "Rochdale Square Town Centre Improvement Project   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0huZVFsWlZoN2phYnR3YjhtTXJKaFZJYXd5SjBJWGdMd1Q1Yzd3MExXN1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-80",
+            "name": "RGC Cook Recreation Reserve                       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1dmWkEzb1ZzU08xVE51cVZpOGFyL1B0b0NnNWcyejFVV3A3ZWRVSkd5L1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-81",
+            "name": "Terrain Consulting Group Pty Ltd                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1psRHVHb1M3VFpXaklHSEVJb3dzZVk2dExPTlJyR1E0KzNMay9VZkdpSkk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-82",
+            "name": "Maintenance of Traffic Signals                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1MzUWY5RHZKN0VQMmMvWVN4bEV3WmdsRm5LRjVHYzI2S3hhaEZqcjY3aEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-84",
+            "name": "Civil and carpark works at Thomastown Primary     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3V6cVA0VjZYUDl1bjdaOGI4ODhRS3JZR3g4UFppeVdIZENRU0RXNXpTTFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-85",
+            "name": "Construction of Thomastown Primary                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytEVlo4VXJkQzFwVVZmR2p0RmZvUlVVc295R2dZeVdoekFtUlhTZXFhNEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-86",
+            "name": "Stage 2 Building extension works at Bubup Wilam,  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05ENml0VHplRzZtOTNJRGtTMGNpZXZMVTdIN1UvQ001eTdXS29Fc29vZm89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-87",
+            "name": "Stage 2 Landscape works at Bubup Wilam,           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1gxclhtL1RUbDVJUS9iNEt2TVZhMXFsVytYUEhCR1d4RCtjYkRaTWRDQlE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-88",
+            "name": "Park and playground upgrade - Dalton Road Park,   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlwZUJxbm9aRGZqQU9YazF5bVRsb1ZPZ005RFZtY2FUYnVWTUgxUDFGaE09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-9",
+            "name": "All Abilities Carpark Stage 1 Lighting            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dBbE02SGtkSUxPZ1IxcVJwR1JueUJGTzdnZ0xvSThsSHlzUHYrS2QxNmc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-90",
+            "name": "Corporate Positioning Strategy                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0IyM1UwYzFUTThCdFUyVVlUOW5sUGxEZkNTaWh3VjZxSWt2dlNFc0w2RUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-92",
+            "name": "Provision of Plant Hire Services                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O090c0lTbHlxVnR4Vy9xQ0w1SG5hN05xT3lrWUxkakFtQUgzanJOcGpvOVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-94",
+            "name": "Strategic Procurement Transformation Program      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lCQlNZc2RRUXo1SWdTTjY5TlY3TDJVQWRKVVJNUG5sTlYrczBuNU9Kc2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-95",
+            "name": "Installation of Solar PV Systems                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Awd0VrYUQxdVl4NkZFK0ZWaWZUeWJzUTFBUFFtdFZqT2kyUlJaR3BVR0k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-96",
+            "name": "Laurimar Reserve East Oval Drainage               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O28vUmU1bkZUQm43Ylhtb2ZaaTU3NDN1R2duWEpDZXFsTlh4MjNRN3M5ODg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-97",
+            "name": "Cricket Practice Net Renewal at Redleap Reserve   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hWU0J3aUNUZFdQdnhpVFprekZUVnhRYmwybUdRUkdCblBWL2FrNWw3NFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-98",
+            "name": "Unaddressed Mail Services                         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1RoRDJ1TzVwUUFoNzNQZzk3Q3pGNlcrdFkzZ3lFMjk3YkZpdGc3NFI3Wnc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2019-99",
+            "name": "Upgrade of Cookes Road and Bridge Inn Road        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZCdFFTRGIxa1FDTGVrQUNIcXk2TXk2UXhZaCtheFRnNCtRSTllMmlHTUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-1",
+            "name": "Facility Trade Services                           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdkNURScldZbHdZWHovVGNZOUorR0dzQlhZMmltbkJZNm4zKy84cmdYaWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-10",
+            "name": "Worcester East Park Fire Damage Repair Works      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pTWllYQWM2VUNXaHNkNThlQ3JtVzFTdlhxTEw2U3JENHc4eDNkY3FmQ2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-11",
+            "name": "Design Services for the Mill Park Library Public  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1h5elhXa2pZTFVDeTQ0WlF3U2d1SzJldXZCQW04amVuOEtmL0ZORTZXWmc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-12",
+            "name": "Building Condition Audit                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JOR0NiN1Fxb2ZOdlZ5NEVUR0tjWlRmM0JxUEZhcm1LM2dMTWtJK3hhZUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-13",
+            "name": "Breadalbane Park Half Court                       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29WaFYxU1FVd04wWjFORWhUdVlYRi81N0UwT1NHRllRVUV2VVpCVVR1WGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-14",
+            "name": "S&I of dog off leash park at Redleap Recreation   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1lYQlNEWHFueW9pUktTS1AzcVV1V3FKekUzZ3ZUek55KzdqRFlBS2pwNVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-15",
+            "name": "Supply and install security equipment at the      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytacGhnaTN4SUxYdlRsaHhwZkhTNE1ycXNoUXhEZ09qVUxtODRWVFVHR0k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-16",
+            "name": "Design & Construct a Public Toilet Amenity at     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O04zb0htL3diMlNPMkZjWVVKM0lJcHFZeHhzTGVDMkNKcW1seHlwTW1FdFE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-17",
+            "name": "Streetscape Works at the Central Carpark          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hNeGQ5b3F5OVpYaFMyeHNxR25pSWZmNkdVNy9Nazh0OUoxWVYxdUNwWjA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-18",
+            "name": "Supply and Install a water treatment plant at     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1pHVWJlZGdGSnIvcnpmVDlhNHVxV2NNdlFEMkNFUmNPTzNsVjA1a0FOZlk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-2",
+            "name": "Facilities Management                             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25ZTHNVaEdqcENURnQ4ZHBiZmNiRGhOV3dtb2NvYjVSd0ZnMk8rdFFhVVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-20",
+            "name": "Dog Off Leash Area Fencing and Landscape Works    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VpTWt0MjY3bytKNG00VWxOQVZxaGEvVzVzZVlpNTdmeTVYQTcyYTZHK1k9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-21",
+            "name": "Supply and Install Perimeter Spoon Drain and      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRFWXU3S29Ea1cwZ2lORFhvQnlvNWdzdnpKMzNkQXR2UngxekM3VEpreHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-22",
+            "name": "Hillsview Recreation Reserve \u00e2\u0080\u0093 East Pitch Rede  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2FDbWdOazdGeFpaTWhPZnMwTmNkd1BlY2RZeDVNdzJsVGZHcmFtNjFnZFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-23",
+            "name": "Park and Playground Upgrade at Watery Gully Park  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O080bjZqU3Y4M3dyS0J4NEJPQ3JYVUxRelgwd0tCZ0grdmYrL1ZReW9qTWs9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-24",
+            "name": "Procurement Software                              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0NvY01QS3RTUXZtU2NnbFVIMzc4cC8vZDlzbUxzajNmMnVmL1hadWpFTjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-25",
+            "name": "Preliminary Works at Mernda Sports Hub            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZmZDFXa2o2K0E1cDlrNWk0UE9URDk1TTV0RDg1Y0xrKzBycFJzZkN2S289MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-26",
+            "name": "2021 & 2023 City of Whittlesea Household Survey   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZMZjltRisxcUZmR0REb0Z5d1JxT1VFT0NYTGROYitDVW9jSkhocHh0Mlk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-27",
+            "name": "Call Handling and Associated Services             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25FQjNIc3ZEMzdocGdBYVZ6NE01ODRaVXIwMDRlR2RZdkpoUGUzRlRKT2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-28",
+            "name": "VMWARE ELA (VM4323-2020)                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2EyTUhwZnRsSkhuYUNPRUh6Uk5jb2g1SW1tMG9wN0IyMmJqTlNBUTlaNFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-29",
+            "name": "Mill Park All Abilities Play Space Public Art  P  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1piK0ZOUlRTeHZKUWZuSmJRV2hBVU5XcFlRRHVPWUxRMTNWbGZIaC81S1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-3",
+            "name": "Construction of Meeting Rooms at the Edge Office  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2xIQzJTaXh4UG5YTDJkOTU2emN2UUY3Vk9KU0FsZ3ZMZFlhYUtRUHVLa2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-30",
+            "name": "Design services for amenity at the Civic centre   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2UzYTVDby9kNU5kMjhhU0MreEw4L0FNUnhJc2owU1JBd0E5RGhtNnk1bE09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-31",
+            "name": "Laurimar drainage reserve \u00e2\u0080\u0093 boardwalk           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1lZQzAxVklrWGJkbi9hM1VFMXBvZmNvVmJXTlZSczBscUlTMUk1QkEvUjQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-32",
+            "name": "Construction of McLeans Rd Kindergarten,          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2VZc1ZIblJyU0NZU3JpNm9vRkdBN3lyOHZ6ekN5dkx6dHFXanJHSkpOdG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-33",
+            "name": "Replacement of Roof & Skylight at the             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZCZDJIQjJCa0I3OHBYRmhDb2t4NGhsbDJxZ2VKNE9iN3JDckYrTTVJQWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-34",
+            "name": "Renewable power purchase agreement                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tWcEI2WU80OTczdHNRajlpc2IxbWpGR3dXWTNYWE11UlJ4UHZ0M001UWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-35",
+            "name": "Microsoft Enterprise Licensing                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dYTEgxeEp4eUhNN1E1cktITVBCbkdybU9PbjlQWnZ1THlsUjdPSytBUGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-36",
+            "name": "HVAC Upgrade Works at the Mill Park Library       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lCL0FVdEtEV3ZkdkkwLzZUREYycG1HT1YzT04vTktWcXlEL0dZNFN2UVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-37",
+            "name": "Amenties Upgrade Works at the Mill Park Library   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2dLQXlKbnFWUnkydXRzSWt6MTg0TEZXalNpeDNRSzBvRUZCRVRTYVJ4cTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-38",
+            "name": "Lighting Upgrade Works at the Mill Park Library   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3NBK0FqRFJaUndXc3JGaWtUMTYybW41aHZKOHl3dGpBVXR3MkZYTm1PMjg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-39",
+            "name": "Design and Construct Public Amenity Facilities    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hHbW84WElQb3Y3aEJmNnB6N205ZUE3b2ZjZmUydDdKcFVFaUVZVitmd1E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-40",
+            "name": "Street Tree Renewal Program Tree Maintenance      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdmV0FyQU5QTndZTDc3K0JPQTdPZWs4YTFuVzFPbVFPaTh0UHNFUE1wQUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-41",
+            "name": "Design Services for Whittlesea Skate Park         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Ozh2T2JVRDMzMWFNSVI5K1JxTkdtdkErSHluMFNRN3FLTS9jWFZTNGhac0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-42",
+            "name": "Upgrade of Bocce Courts at Norris Bank Reserve    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2gwRUpML2psZTg1aElRdm9oNkZGc2FPbStZOHQwaGMxZUdpbDBUKy9FWjA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-43",
+            "name": "Design Services for Granite Hills Park and Play   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0hjVlFWMC9VZHlDeFArYkVOR0ZIUTdUTThONllQd1lkUlBwQllWOXhkSzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-44",
+            "name": "Design services for Norris Bank Reserve West      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01IT01hSHM1RHhENitRTVNiZjZnbDNtMzdtZFVjWUV3TVYxMGFPWEpyZ3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-45",
+            "name": "Construction of Pedestrian Operated Traffic       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1VXZ3o1aHRKL2M3cTU4b1JXQmlBWTY5TDRKZ1NXQU9Eb3V6NmhqcnZTZUE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-46",
+            "name": "Preliminary Works at Prism Park, Epping           "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hlRU56R3RVVFh6bkpubGkvRzVxazUwaGtMTS9WTnRXN2xrQUdTdk1sOGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-47",
+            "name": "Wollert East Community Centre                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3NTcERUQ25zM2NZQXRoeGtOUkJUVXVpdDZCN1BWOWdKMXhXVHJreFZWdWM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-48",
+            "name": "Telecommunication Services (MAV) - Mobiles        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1A5OVB2MStLcDFmY1RRY1VBZ2M3NDJwODBRbkQ3aXdKWmpHVWQyanRvOXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-49",
+            "name": "Supply and installation of Landscape and          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZQalJDbEdHSDZkM0JvS0pUbHkrYlcwY0NBUUhIY1hMdzNwV2o5UkhnRHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-5",
+            "name": "Supply and Installation of landscape and          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xDV1hqQUNEK3VtSHFTMnMwSDhuVExPdUNwanpGOE5Rdmc3WXFkV0pTOVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-50",
+            "name": "Supply of Street Light Luminaires (MAV SL3911)    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3JCaTZtaGt1RDJIUTZLS242S1Mxak5FL3VOMG5obmRVT3E5SkljSVhFVzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-51",
+            "name": "Supply and installation of TV\u00e2\u0080\u0099s at the          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01QcmlhVmNsa2xKZ0dwS2JramVJbWprRnExNVNYR3Jwc0prb3JrZ09oTVU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-52",
+            "name": "Cooper Street Hydrogen Station                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Ozc2ckNGeE1DUkp2T1k4enA0N1lNYVZub1J2bVhIQ0QxN2FuTFBWWXNBS2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-53",
+            "name": "Supply and Install a Pool Pod at the Whittlesea   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lOQVBpQW5ncHBKUk1nbWhPTWdIWTVmT1QyWWdXd1M4dlNDY1B2QVhROTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-54",
+            "name": "EziTracker                                        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlwbWl5SHpQbkNRM1Z1bE5TYTgwZm8xa0crMjRyUzlVdTVmNDVCeWVsR2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-55",
+            "name": "DET Service Approval Resources for Edgars Creek   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFkVlJQek9iWEROZFhPUWlnekJ6MUdHMWI0dzVwR2VKOVVUMEFyRWZPK2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-56",
+            "name": "DET Service Approval Resources for Thomastown     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2RFTVA1QlV5OEI0Tm9TaG1qZTFrS2Fud2JtY1BWbE8wT29GZG9kaXBwYXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-57",
+            "name": "Nearmap Aerial Photography Supply                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O24wS1kyRzJHN1Nma0FRYW5ESFk0SExBK2cyYmJCMGw0OGo2cnVEeFZacW89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-58",
+            "name": "Ecological Management Services across three       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3l4Wi9PcmNIN3FGTGxPTGVabExyOG5yUnRHd2FhNGIxdnBFR2ZQNUdnWVk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-6",
+            "name": "Design and Construction of Cricket Practice       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3FtK2VnNGJQWHM1Y2RzZDdQVkR2aC9hbXRUWTd6QkdiZm1Dd3dpZ0dubXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-60",
+            "name": "Digital Archive Application Software              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzV5Q2pHeS9WRDVGdVNNMDMyZWZaREd1OWtKWDNzai8rdVZIejNBbTZnZnM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-61",
+            "name": "Mobile Computer Device Deployment: Round 4        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JTcnRxRWROU1hqZFRUaFlwRUFXV1E5WCsvWnZmVnNXY0JXRWl0U1FjeHc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-63",
+            "name": "Online Learning Content 2020                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O04yS29YZFdLRzFKWGUyU0RZYlBOTzN2MmF1bU4wWkFJbzlid0tYNlR4YXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-64",
+            "name": "Mill Park Softball Shade Structure                "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1AzbFNWSXpSV21JN1NaTTZ5UXRiejV6bjI4YUEyczNHRDgwbmIxSzdXNTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-65",
+            "name": "Design Services for the Upgrade and Extension of  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ZCanF1ZHJza1ptZFA1T3d5ZmZhSzFhaEJWVUIrWFArUXFYWUtreE5CL009MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-66",
+            "name": "Design Services for the Mernda Social Support     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3g4SC93cHZHMTZweG5LWWhFdWRRNSt2UUMxSlRBRzBhd1I2ZExBdTdrb3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-67",
+            "name": "Installation of External Lighting at the Civic    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tmdmNnZlZBamRyY0NtdVBna0htbjJUOEZFc1M2YUJZZ0NzS0QxM2E5RVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-68",
+            "name": "Food and Organics Waste Disposal and Processing   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2EvaDJvWndTaEtGVXFPVWZXd050VXV4MGV4SDhBMG9iN1p5UXJpTEJ6Z2M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-69",
+            "name": "Fleet Management                                  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hIT1ZHdlVmcVcwZG9kYzVCWUVUcFBiQmVLUG4wSHYzQ2FMWE1QSE1WQ2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-7",
+            "name": "Street Tree Renewal Program 2019/20               "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdRV2tYNUtabkhkU2w4M0pYOEN1K01lVlJrV2hISTZDMFJiN2JVRlB4YmM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-70",
+            "name": "Bruces Creek Shared Path \u00e2\u0080\u0093 Stage 1              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VWRWd2dmM0VW5iL0t5WW5la21VOVFLckhwMjZkRXZKVjF3S2pEZ2pIaGc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-71",
+            "name": "Fire Hazard Removal and Litter/Rubbish Removal    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O25yUU5yTzUrZldrNi9ISFo1eGxZOUZUT1N6V3l1RVJraEtoSnV0ZFNXTXc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-72",
+            "name": "Public Liability, Professional Indemnity          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pNS3VQKzBacEJjbjVvNmUzTDZ0UHQxM1ROUkxSTEo2c00rRnRkanczbnM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-73",
+            "name": "Commercial Crime Insurance Premiums 2020-21       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Ozl5a1JSK21GUkJTZWRDMCsrbEYyOUthcmRhRStwbmx5bnNTTnprRisrRU09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-76",
+            "name": "Design Services for the Redevelopment of the      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzIxK2NRTjV4TVh2bjczMmRMYjd0bzI1Um5TRGF4MEdCa1NPT25IZlF5cVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-77",
+            "name": "Riverside Reserve Park and Playground Design      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytyMUZlMU82WEx4TDNYcGsxM3psWGtrYjJFVG1TdytINXhVZDFBY1Rmbk09MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-78",
+            "name": "Installation of Cricket Wicket Cover Storage      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9KSlROcFMrTUEvWkVRZ2w2eVh6ZVJNUlF0ZjY3a3Q2SGsyQWx6ejRvdUk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-79",
+            "name": "Minor upgrades to dog off leash area at Norris    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1RCN05SWlREZ1JyWTRxdGpFSlZEQU14TzdDQ0k5OERYM21wZndkYUlhRFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-80",
+            "name": "NPN Internet Services                             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2IwV2lGV0YyVlQwbERNNXZZV2hrWEJ1cEMxTnI2L1BDK1pmYjEvV3p4RzA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-81",
+            "name": "Next Generation Firewall                          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pWeTY2QysvbW1xcDJDYktQckFQUmxTUmlmYkgrOVdzdmkvdjd5YnFMM0U9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-82",
+            "name": "Thomastown Streetscape Improvement Works          "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3I2QlptR3lrUXBwWExacWFURHlhV3VpZU9BMWZrWmlkTklZekZQYUFFNm89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-83",
+            "name": "Public Lighting Retail Electricity Agreement      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oyt0TjNPcjRyUGptWE1vYzBwV2l0ZkovVkJwaWRFb2hMQ0w2Zi9PS1ZXVTA9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-84",
+            "name": "Epping to Donnybrook corridor                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tHTWtLbVV4UUpNMXNWQlpIc1dXbUw2dlY5Q05OaVVrWkpPamhJam8zWEk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-85",
+            "name": "Geotechnical Investigation for the Mernda Sports  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzhQU2tGOUtYMjdtQnNNNFYzeUdYS05mVnIxUkt3bFBhZ3FiNDgxMVhRRFU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "2020-88",
+            "name": "Short Term Organics Overflow Contract             "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3JUcWROekZJUmdmQkVBMzF0K0IxYUNnc2tBSUlHaE1mMnEyU1BsSm9DNmc9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT0809107B",
+            "name": "Civica Authority System Mobile Computing Managed  "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9OZDNvMG9xc2UvK0pDRS8zdWhZbzBGTkFJOVNKMThFNmNFdEtCTFVubVE9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT0809107C",
+            "name": "Civica Authority Software Licence                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2VJU1ZXSFNhaXVHbmZyMm5QSHNLd1JPclhBZ2NZcjhXVWVIUDJEUHdUUzg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT101157LEASE",
+            "name": "INTEGRATED TELEPHONY PHASE 1                      "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0F1WGhyQmUvNkNSNEwveWRMbmxNN2hxQmFjU2FvVjdFUGt5UFgxRkVwRFk9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT111201A",
+            "name": "MANAGEMENT & OPERATION OF MILL PARK LEISURE       "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tnZy8zZmdtRnRqWGZZUnk3OVQrSGlVVElNVzVoQ2ZCbUZJaVAzV1ljMG89MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT111201B",
+            "name": "MANAGEMENT & OPERATION OF WHITTLESEA              "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pReDh1UC82KzV4N3JWUXRkRU1mUWlKOVZqRzJlS2FwVU5NNlZkczN3QzQ9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT121330",
+            "name": "PROVISION OF A CONTRACT MANANGEMENT SYSTEM        "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OythSXh1MUJtM0wyWWVYbGVZd2kzSWtVQ2hDd3ZQZTRVSUFka0NSWmtia3c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT121346",
+            "name": "OFFSITE DOCUMENT STORAGE SERVICES                 "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xnK0c2NWpka3BOQ2FIbWE4b1lCTjBBYjRnbGJ4bVNKNzlRRTNHcGhpR2s9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT121367",
+            "name": "ASSET MANAGEMENT SYSTEM PROJECT                   "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1lRNTRrN3ppV0lkZDRqSjQ4WUt1RkprWTdNSWpqRmlaSlBlQ0dVdEQwV2c9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "CT121368LEASE",
+            "name": "GYM EQUIPMENT AT MILL PARK LEISURE CENTRE         "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Ozg2MUdsK0dPZDVVVFMwTlY0OUp6VEZWa3BHb2QzMHNwS3djb2twR3dPczg9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "MAV ME4315",
+            "name": "MECC CENTRAL SUPPLY AGREEMENT                     "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3d1enZ0bDlCelQ3SWlYYkZtM1ZwREFxMExuWFFkUjJXWFJTb1dLNGZHM3M9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "SR091012",
+            "name": "SUPPLY AND DELIVERY OF QUARRY PRODUCTS            "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1haQ3Jwd1NPMmpEczNxcHdCa2hFNHdHZnczK2RiTEZWdmtHbHdLSVhmTGM9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "SR111210",
+            "name": "PROVISION OF CLEANING SERVICES                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hCNWZpZnNxbmFpZkxnK3MxaHQyLzAydTJtRTVZQjZOU2JQQWlJc3FCN0E9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "SR111210A",
+            "name": "PROVISION OF CLEANING SERVICES                    "
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2dLQ2NPZE5NcGVrZ1RNZUFqWjh0aGFlM3BvbHVBK3crWXhzK3hDRW1QNEU9MTswMDsn\"",
+            "Dimension_Code": "CONTRACT",
+            "dimensionvaluecode": "SR111210CT",
+            "name": "PROVISION OF CLEANING SERVICES                    "
+        }
+    ]
+ }

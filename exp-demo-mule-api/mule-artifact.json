@@ -1,0 +1,20 @@
+
+
+{
+
+  "secureProperties": ["key","secure::app.password"],
+  "redeploymentEnabled": true,
+  "name": "secure-properties",
+  "minMuleVersion": "4.3.0",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedResources": []
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

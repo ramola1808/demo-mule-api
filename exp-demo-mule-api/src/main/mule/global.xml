@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mule xmlns:secure-properties="http://www.mulesoft.org/schema/mule/secure-properties" xmlns:api-gateway="http://www.mulesoft.org/schema/mule/api-gateway" xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:apikit="http://www.mulesoft.org/schema/mule/mule-apikit" xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd http://www.mulesoft.org/schema/mule/mule-apikit http://www.mulesoft.org/schema/mule/mule-apikit/current/mule-apikit.xsd 
+http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd
+http://www.mulesoft.org/schema/mule/api-gateway http://www.mulesoft.org/schema/mule/api-gateway/current/mule-api-gateway.xsd
+http://www.mulesoft.org/schema/mule/secure-properties http://www.mulesoft.org/schema/mule/secure-properties/current/mule-secure-properties.xsd">
+    <http:listener-config name="demo-mule-api-httpListenerConfig">
+        <http:listener-connection host="${http.host}" port="${http.port}"/>
+    </http:listener-config>
+    <apikit:config name="demo-mule-api-config" api="demo-mule-api.raml" outboundHeadersMapName="outboundHeaders" httpStatusVarName="httpStatus" />
+    <http:request-config name="HTTP_Request_configuration" doc:name="HTTP Request configuration" doc:id="1acd4774-bd1c-4759-9806-da168d4fecab" basePath="/v2.0/03ebd407-5955-4904-97a2-1ce85dca0a21/Training/ODataV4" >
+		<http:request-connection protocol="HTTPS" host="api.businesscentral.dynamics.com" port="443" >
+			<http:authentication >
+				<http:basic-authentication username="${secure::app.username}" password="${secure::app.password}" />
+			</http:authentication>
+		</http:request-connection>
+	</http:request-config>
+    <api-gateway:autodiscovery apiId="16577611" ignoreBasePath="true" doc:name="API Autodiscovery" doc:id="d3b1549b-456b-4c90-a5c2-a827f7b222df" flowRef="demo-mule-api-main" />
+	<secure-properties:config name="Secure_Properties_Config" doc:name="Secure Properties Config" doc:id="f777bb89-c9d9-4fa1-9b60-06ccb2e72c3f" file="app.properties" key="${key}" />
+	<configuration-properties doc:name="Configuration properties" doc:id="647f66cf-269d-48ac-9c4f-1594771983a6" file="app.properties" />	 
+	
+</mule>
